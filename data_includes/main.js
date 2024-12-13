@@ -254,7 +254,7 @@ newTrial("confirmation-prolific" ,
         .print()
     ,
  // This is where you should put the link from the last step.
-    newText("<p><a href='https://app.prolific.com/submissions/complete?cc=CHQNI12J'>Klicken Sie hier, um Ihre Teilnahme zu validieren.</a></p>")
+    newText("<p><a href='https://app.prolific.com/submissions/complete?cc=COOPRURX'>Click here to validate your participation on Prolific.</a></p>")
         .center()
         .print()
     ,
