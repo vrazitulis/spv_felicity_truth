@@ -1,289 +1,289 @@
 item,list,question,condition,exp_answer,option_1,option_2,sentence,picture
-1,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some apples are fruits.,NA
-1,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some fruits are apples.,NA
-1,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some apples are cities.,NA
-1,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the apples are red.,grid_image_01_A_target.png
-1,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the apples are red.,grid_image_01_B_controlT.png
-1,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the apples are red.,grid_image_01_C_controlF.png
-1,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some apples are fruits.,NA
-1,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some fruits are apples.,NA
-1,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some apples are cities.,NA
-1,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the apples are red.,grid_image_01_A_target.png
-1,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the apples are red.,grid_image_01_B_controlT.png
-1,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the apples are red.,grid_image_01_C_controlF.png
-2,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some horses are mammals.,NA
-2,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some mammals are horses.,NA
-2,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some horses are plants.,NA
-2,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the horses are brown.,grid_image_02_A_target.png
-2,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the horses are brown.,grid_image_02_B_controlT.png
-2,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the horses are brown.,grid_image_02_C_controlF.png
-2,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some horses are mammals.,NA
-2,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some mammals are horses.,NA
-2,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some horses are plants.,NA
-2,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the horses are brown.,grid_image_02_A_target.png
-2,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the horses are brown.,grid_image_02_B_controlT.png
-2,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the horses are brown.,grid_image_02_C_controlF.png
-3,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some circles are shapes.,NA
-3,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some shapes are circles.,NA
-3,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some circles are sounds.,NA
-3,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the circles are blue.,grid_image_03_A_target.png
-3,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the circles are blue.,grid_image_03_B_controlT.png
-3,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the circles are blue.,grid_image_03_C_controlF.png
-3,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some circles are shapes.,NA
-3,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some shapes are circles.,NA
-3,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some circles are sounds.,NA
-3,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the circles are blue.,grid_image_03_A_target.png
-3,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the circles are blue.,grid_image_03_B_controlT.png
-3,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the circles are blue.,grid_image_03_C_controlF.png
-4,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some houses are buildings.,NA
-4,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some buildings are houses.,NA
-4,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some houses are colors.,NA
-4,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_A_target.png
-4,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the houses are mansions.,grid_image_04_B_controlT.png
-4,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_C_controlF.png
-4,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some houses are buildings.,NA
-4,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some buildings are houses.,NA
-4,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some houses are colors.,NA
-4,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_A_target.png
-4,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the houses are mansions.,grid_image_04_B_controlT.png
-4,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_C_controlF.png
-5,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some guitars are musical instruments.,NA
-5,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some musical instruments are guitars.,NA
-5,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some guitars are sports teams.,NA
-5,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_A_target.png
-5,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the guitars are electric.,grid_image_05_B_controlT.png
-5,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_C_controlF.png
-5,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some guitars are musical instruments.,NA
-5,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some musical instruments are guitars.,NA
-5,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some guitars are sports teams.,NA
-5,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_A_target.png
-5,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the guitars are electric.,grid_image_05_B_controlT.png
-5,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_C_controlF.png
-6,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some ducks are birds.,NA
-6,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some birds are ducks.,NA
-6,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some ducks are numbers.,NA
-6,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the ducks are white.,grid_image_06_A_target.png
-6,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the ducks are white.,grid_image_06_B_controlT.png
-6,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the ducks are white.,grid_image_06_C_controlF.png
-6,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some ducks are birds.,NA
-6,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some birds are ducks.,NA
-6,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some ducks are numbers.,NA
-6,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the ducks are white.,grid_image_06_A_target.png
-6,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the ducks are white.,grid_image_06_B_controlT.png
-6,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the ducks are white.,grid_image_06_C_controlF.png
-7,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some tulips are flowers.,NA
-7,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some flowers are tulips.,NA
-7,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some tulips are stars.,NA
-7,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_A_target.png
-7,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_B_controlT.png
-7,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_C_controlF.png
-7,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some tulips are flowers.,NA
-7,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some flowers are tulips.,NA
-7,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some tulips are stars.,NA
-7,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_A_target.png
-7,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_B_controlT.png
-7,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_C_controlF.png
-8,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some bees are insects.,NA
-8,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some insects are bees.,NA
-8,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some bees are snakes.,NA
-8,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the bees are striped.,grid_image_08_A_target.png
-8,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the bees are striped.,grid_image_08_B_controlT.png
-8,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the bees are striped.,grid_image_08_C_controlF.png
-8,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some bees are insects.,NA
-8,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some insects are bees.,NA
-8,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some bees are snakes.,NA
-8,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the bees are striped.,grid_image_08_A_target.png
-8,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the bees are striped.,grid_image_08_B_controlT.png
-8,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the bees are striped.,grid_image_08_C_controlF.png
-9,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some triangles are polygons.,NA
-9,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some polygons are triangles.,NA
-9,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some triangles are languages.,NA
-9,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_A_target.png
-9,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_B_controlT.png
-9,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_C_controlF.png
-9,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some triangles are polygons.,NA
-9,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some polygons are triangles.,NA
-9,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some triangles are languages.,NA
-9,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_A_target.png
-9,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_B_controlT.png
-9,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_C_controlF.png
-10,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some peppers are vegetables.,NA
-10,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some vegetables are peppers.,NA
-10,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some peppers are rivers.,NA
-10,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the peppers are green.,grid_image_10_A_target.png
-10,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the peppers are green.,grid_image_10_B_controlT.png
-10,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the peppers are green.,grid_image_10_C_controlF.png
-10,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some peppers are vegetables.,NA
-10,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some vegetables are peppers.,NA
-10,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some peppers are rivers.,NA
-10,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the peppers are green.,grid_image_10_A_target.png
-10,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the peppers are green.,grid_image_10_B_controlT.png
-10,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the peppers are green.,grid_image_10_C_controlF.png
-11,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some laptops are computers.,NA
-11,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some computers are laptops.,NA
-11,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some laptops are boats.,NA
-11,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the laptops are black.,grid_image_11_A_target.png
-11,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the laptops are black.,grid_image_11_B_controlT.png
-11,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the laptops are black.,grid_image_11_C_controlF.png
-11,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some laptops are computers.,NA
-11,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some computers are laptops.,NA
-11,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some laptops are boats.,NA
-11,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the laptops are black.,grid_image_11_A_target.png
-11,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the laptops are black.,grid_image_11_B_controlT.png
-11,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the laptops are black.,grid_image_11_C_controlF.png
-12,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some cars are vehicles.,NA
-12,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some vehicles are cars.,NA
-12,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some cars are ropes.,NA
-12,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_A_target.png
-12,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the cars are minivans.,grid_image_12_B_controlT.png
-12,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_C_controlF.png
-12,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some cars are vehicles.,NA
-12,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some vehicles are cars.,NA
-12,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some cars are ropes.,NA
-12,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_A_target.png
-12,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the cars are minivans.,grid_image_12_B_controlT.png
-12,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_C_controlF.png
-13,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some trees are plants.,NA
-13,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some plants are trees.,NA
-13,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some trees are animals.,NA
-13,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the trees are palms.,grid_image_13_A_target.png
-13,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the trees are palms.,grid_image_13_B_controlT.png
-13,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the trees are palms.,grid_image_13_C_controlF.png
-13,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some trees are plants.,NA
-13,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some plants are trees.,NA
-13,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some trees are animals.,NA
-13,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the trees are palms.,grid_image_13_A_target.png
-13,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the trees are palms.,grid_image_13_B_controlT.png
-13,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the trees are palms.,grid_image_13_C_controlF.png
-14,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some shirts are clothes.,NA
-14,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some clothes are shirts.,NA
-14,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some shirts are machines.,NA
-14,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_A_target.png
-14,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_B_controlT.png
-14,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_C_controlF.png
-14,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some shirts are clothes.,NA
-14,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some clothes are shirts.,NA
-14,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some shirts are machines.,NA
-14,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_A_target.png
-14,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_B_controlT.png
-14,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_C_controlF.png
-15,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some hammers are tools.,NA
-15,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some tools are hammers.,NA
-15,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some hammers are doors.,NA
-15,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_A_target.png
-15,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the hammers are broken.,grid_image_15_B_controlT.png
-15,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_C_controlF.png
-15,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some hammers are tools.,NA
-15,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some tools are hammers.,NA
-15,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some hammers are doors.,NA
-15,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_A_target.png
-15,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the hammers are broken.,grid_image_15_B_controlT.png
-15,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_C_controlF.png
-16,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some necklaces are pieces of jewelry.,NA
-16,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some pieces of jewelry are necklaces.,NA
-16,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some necklaces are pieces of cake.,NA
-16,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_A_target.png
-16,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_B_controlT.png
-16,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_C_controlF.png
-16,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some necklaces are pieces of jewelry.,NA
-16,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some pieces of jewelry are necklaces.,NA
-16,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some necklaces are pieces of cake.,NA
-16,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_A_target.png
-16,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_B_controlT.png
-16,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_C_controlF.png
-17,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some couches are pieces of furniture.,NA
-17,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some pieces of furniture are couches.,NA
-17,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some couches are pieces of bread.,NA
-17,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the couches are pink.,grid_image_17_A_target.png
-17,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the couches are pink.,grid_image_17_B_controlT.png
-17,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the couches are pink.,grid_image_17_C_controlF.png
-17,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some couches are pieces of furniture.,NA
-17,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some pieces of furniture are couches.,NA
-17,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some couches are pieces of bread.,NA
-17,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the couches are pink.,grid_image_17_A_target.png
-17,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the couches are pink.,grid_image_17_B_controlT.png
-17,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the couches are pink.,grid_image_17_C_controlF.png
-18,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some sandwiches are food items.,NA
-18,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some food items are sandwiches.,NA
-18,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some sandwiches are bathroom items.,NA
-18,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_A_target.png
-18,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_B_controlT.png
-18,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_C_controlF.png
-18,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some sandwiches are food items.,NA
-18,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some food items are sandwiches.,NA
-18,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some sandwiches are bathroom items.,NA
-18,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_A_target.png
-18,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_B_controlT.png
-18,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_C_controlF.png
-19,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some mountains are landforms.,NA
-19,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some landforms are mountains.,NA
-19,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some mountains are currencies.,NA
-19,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_A_target.png
-19,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_B_controlT.png
-19,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_C_controlF.png
-19,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some mountains are landforms.,NA
-19,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some landforms are mountains.,NA
-19,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some mountains are currencies.,NA
-19,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_A_target.png
-19,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_B_controlT.png
-19,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_C_controlF.png
-20,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some hats are pieces of headwear.,NA
-20,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some pieces of headwear are hats.,NA
-20,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some hats are pieces of legislation.,NA
-20,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_A_target.png
-20,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_B_controlT.png
-20,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_C_controlF.png
-20,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some hats are pieces of headwear.,NA
-20,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some pieces of headwear are hats.,NA
-20,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some hats are pieces of legislation.,NA
-20,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_A_target.png
-20,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_B_controlT.png
-20,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_C_controlF.png
-21,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some crocodiles are reptiles.,NA
-21,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some reptiles are crocodiles.,NA
-21,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some crocodiles are mushrooms.,NA
-21,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_A_target.png
-21,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_B_controlT.png
-21,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_C_controlF.png
-21,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some crocodiles are reptiles.,NA
-21,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some reptiles are crocodiles.,NA
-21,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some crocodiles are mushrooms.,NA
-21,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_A_target.png
-21,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_B_controlT.png
-21,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_C_controlF.png
-22,1a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some suitcases are pieces of luggage.,NA
-22,2a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some pieces of luggage are suitcases.,NA
-22,3a,Is this a true statement?,controlF,No.,Yes.,No.,Some suitcases are pieces of music.,NA
-22,1b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_A_target.png
-22,2b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the suitcases are open.,grid_image_22_B_controlT.png
-22,3b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_C_controlF.png
-22,1c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some suitcases are pieces of luggage.,NA
-22,2c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some pieces of luggage are suitcases.,NA
-22,3c,Is this a good statement?,controlF,No.,Yes.,No.,Some suitcases are pieces of music.,NA
-22,1d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_A_target.png
-22,2d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the suitcases are open.,grid_image_22_B_controlT.png
-22,3d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_C_controlF.png
-23,3a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some cameras are devices.,NA
-23,1a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some devices are cameras.,NA
-23,2a,Is this a true statement?,controlF,No.,Yes.,No.,Some cameras are tables.,NA
-23,3b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_A_target.png
-23,1b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the cameras are analog.,grid_image_23_B_controlT.png
-23,2b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_C_controlF.png
-23,3c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some cameras are devices.,NA
-23,1c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some devices are cameras.,NA
-23,2c,Is this a good statement?,controlF,No.,Yes.,No.,Some cameras are tables.,NA
-23,3d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_A_target.png
-23,1d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the cameras are analog.,grid_image_23_B_controlT.png
-23,2d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_C_controlF.png
-24,2a,Is this a true statement?,target,Yes./No.,Yes.,No.,Some shoes are pieces of footwear.,NA
-24,3a,Is this a true statement?,controlT,Yes.,Yes.,No.,Some pieces of footwear are shoes.,NA
-24,1a,Is this a true statement?,controlF,No.,Yes.,No.,Some shoes are pieces of poetry.,NA
-24,2b,Is this a true description of the picture?,target,Yes./No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_A_target.png
-24,3b,Is this a true description of the picture?,controlT,Yes.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_B_controlT.png
-24,1b,Is this a true description of the picture?,controlF,No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_C_controlF.png
-24,2c,Is this a good statement?,target,Yes./No.,Yes.,No.,Some shoes are pieces of footwear.,NA
-24,3c,Is this a good statement?,controlT,Yes.,Yes.,No.,Some pieces of footwear are shoes.,NA
-24,1c,Is this a good statement?,controlF,No.,Yes.,No.,Some shoes are pieces of poetry.,NA
-24,2d,Is this a good description of the picture?,target,Yes./No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_A_target.png
-24,3d,Is this a good description of the picture?,controlT,Yes.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_B_controlT.png
-24,1d,Is this a good description of the picture?,controlF,No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_C_controlF.png
+1,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some apples are fruits.,NA
+1,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some fruits are apples.,NA
+1,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some apples are cities.,NA
+1,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the apples are red.,grid_image_01_A_target.png
+1,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the apples are red.,grid_image_01_B_controlT.png
+1,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the apples are red.,grid_image_01_C_controlF.png
+1,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some apples are fruits.,NA
+1,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some fruits are apples.,NA
+1,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some apples are cities.,NA
+1,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the apples are red.,grid_image_01_A_target.png
+1,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the apples are red.,grid_image_01_B_controlT.png
+1,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the apples are red.,grid_image_01_C_controlF.png
+2,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some horses are mammals.,NA
+2,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some mammals are horses.,NA
+2,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some horses are plants.,NA
+2,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the horses are brown.,grid_image_02_A_target.png
+2,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the horses are brown.,grid_image_02_B_controlT.png
+2,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the horses are brown.,grid_image_02_C_controlF.png
+2,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some horses are mammals.,NA
+2,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some mammals are horses.,NA
+2,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some horses are plants.,NA
+2,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the horses are brown.,grid_image_02_A_target.png
+2,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the horses are brown.,grid_image_02_B_controlT.png
+2,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the horses are brown.,grid_image_02_C_controlF.png
+3,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some circles are shapes.,NA
+3,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some shapes are circles.,NA
+3,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some circles are sounds.,NA
+3,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the circles are blue.,grid_image_03_A_target.png
+3,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the circles are blue.,grid_image_03_B_controlT.png
+3,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the circles are blue.,grid_image_03_C_controlF.png
+3,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some circles are shapes.,NA
+3,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some shapes are circles.,NA
+3,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some circles are sounds.,NA
+3,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the circles are blue.,grid_image_03_A_target.png
+3,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the circles are blue.,grid_image_03_B_controlT.png
+3,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the circles are blue.,grid_image_03_C_controlF.png
+4,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some houses are buildings.,NA
+4,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some buildings are houses.,NA
+4,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some houses are colors.,NA
+4,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_A_target.png
+4,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the houses are mansions.,grid_image_04_B_controlT.png
+4,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_C_controlF.png
+4,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some houses are buildings.,NA
+4,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some buildings are houses.,NA
+4,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some houses are colors.,NA
+4,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_A_target.png
+4,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the houses are mansions.,grid_image_04_B_controlT.png
+4,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the houses are mansions.,grid_image_04_C_controlF.png
+5,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some guitars are musical instruments.,NA
+5,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some musical instruments are guitars.,NA
+5,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some guitars are sports teams.,NA
+5,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_A_target.png
+5,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the guitars are electric.,grid_image_05_B_controlT.png
+5,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_C_controlF.png
+5,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some guitars are musical instruments.,NA
+5,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some musical instruments are guitars.,NA
+5,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some guitars are sports teams.,NA
+5,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_A_target.png
+5,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the guitars are electric.,grid_image_05_B_controlT.png
+5,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the guitars are electric.,grid_image_05_C_controlF.png
+6,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some ducks are birds.,NA
+6,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some birds are ducks.,NA
+6,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some ducks are numbers.,NA
+6,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the ducks are white.,grid_image_06_A_target.png
+6,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the ducks are white.,grid_image_06_B_controlT.png
+6,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the ducks are white.,grid_image_06_C_controlF.png
+6,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some ducks are birds.,NA
+6,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some birds are ducks.,NA
+6,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some ducks are numbers.,NA
+6,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the ducks are white.,grid_image_06_A_target.png
+6,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the ducks are white.,grid_image_06_B_controlT.png
+6,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the ducks are white.,grid_image_06_C_controlF.png
+7,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some tulips are flowers.,NA
+7,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some flowers are tulips.,NA
+7,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some tulips are stars.,NA
+7,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_A_target.png
+7,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_B_controlT.png
+7,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_C_controlF.png
+7,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some tulips are flowers.,NA
+7,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some flowers are tulips.,NA
+7,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some tulips are stars.,NA
+7,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_A_target.png
+7,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_B_controlT.png
+7,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the tulips are yellow.,grid_image_07_C_controlF.png
+8,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some bees are insects.,NA
+8,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some insects are bees.,NA
+8,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some bees are snakes.,NA
+8,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the bees are striped.,grid_image_08_A_target.png
+8,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the bees are striped.,grid_image_08_B_controlT.png
+8,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the bees are striped.,grid_image_08_C_controlF.png
+8,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some bees are insects.,NA
+8,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some insects are bees.,NA
+8,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some bees are snakes.,NA
+8,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the bees are striped.,grid_image_08_A_target.png
+8,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the bees are striped.,grid_image_08_B_controlT.png
+8,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the bees are striped.,grid_image_08_C_controlF.png
+9,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some triangles are polygons.,NA
+9,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some polygons are triangles.,NA
+9,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some triangles are languages.,NA
+9,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_A_target.png
+9,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_B_controlT.png
+9,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_C_controlF.png
+9,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some triangles are polygons.,NA
+9,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some polygons are triangles.,NA
+9,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some triangles are languages.,NA
+9,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_A_target.png
+9,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_B_controlT.png
+9,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the triangles are equal-sided.,grid_image_09_C_controlF.png
+10,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some peppers are vegetables.,NA
+10,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some vegetables are peppers.,NA
+10,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some peppers are rivers.,NA
+10,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the peppers are green.,grid_image_10_A_target.png
+10,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the peppers are green.,grid_image_10_B_controlT.png
+10,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the peppers are green.,grid_image_10_C_controlF.png
+10,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some peppers are vegetables.,NA
+10,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some vegetables are peppers.,NA
+10,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some peppers are rivers.,NA
+10,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the peppers are green.,grid_image_10_A_target.png
+10,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the peppers are green.,grid_image_10_B_controlT.png
+10,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the peppers are green.,grid_image_10_C_controlF.png
+11,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some laptops are computers.,NA
+11,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some computers are laptops.,NA
+11,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some laptops are boats.,NA
+11,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the laptops are black.,grid_image_11_A_target.png
+11,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the laptops are black.,grid_image_11_B_controlT.png
+11,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the laptops are black.,grid_image_11_C_controlF.png
+11,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some laptops are computers.,NA
+11,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some computers are laptops.,NA
+11,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some laptops are boats.,NA
+11,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the laptops are black.,grid_image_11_A_target.png
+11,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the laptops are black.,grid_image_11_B_controlT.png
+11,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the laptops are black.,grid_image_11_C_controlF.png
+12,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some cars are vehicles.,NA
+12,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some vehicles are cars.,NA
+12,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some cars are ropes.,NA
+12,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_A_target.png
+12,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the cars are minivans.,grid_image_12_B_controlT.png
+12,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_C_controlF.png
+12,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some cars are vehicles.,NA
+12,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some vehicles are cars.,NA
+12,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some cars are ropes.,NA
+12,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_A_target.png
+12,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the cars are minivans.,grid_image_12_B_controlT.png
+12,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the cars are minivans.,grid_image_12_C_controlF.png
+13,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some trees are plants.,NA
+13,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some plants are trees.,NA
+13,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some trees are animals.,NA
+13,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the trees are palms.,grid_image_13_A_target.png
+13,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the trees are palms.,grid_image_13_B_controlT.png
+13,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the trees are palms.,grid_image_13_C_controlF.png
+13,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some trees are plants.,NA
+13,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some plants are trees.,NA
+13,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some trees are animals.,NA
+13,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the trees are palms.,grid_image_13_A_target.png
+13,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the trees are palms.,grid_image_13_B_controlT.png
+13,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the trees are palms.,grid_image_13_C_controlF.png
+14,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some shirts are clothes.,NA
+14,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some clothes are shirts.,NA
+14,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some shirts are machines.,NA
+14,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_A_target.png
+14,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_B_controlT.png
+14,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_C_controlF.png
+14,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some shirts are clothes.,NA
+14,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some clothes are shirts.,NA
+14,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some shirts are machines.,NA
+14,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_A_target.png
+14,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_B_controlT.png
+14,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the shirts are dirty.,grid_image_14_C_controlF.png
+15,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some hammers are tools.,NA
+15,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some tools are hammers.,NA
+15,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some hammers are doors.,NA
+15,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_A_target.png
+15,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the hammers are broken.,grid_image_15_B_controlT.png
+15,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_C_controlF.png
+15,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some hammers are tools.,NA
+15,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some tools are hammers.,NA
+15,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some hammers are doors.,NA
+15,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_A_target.png
+15,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the hammers are broken.,grid_image_15_B_controlT.png
+15,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the hammers are broken.,grid_image_15_C_controlF.png
+16,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some necklaces are pieces of jewelry.,NA
+16,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of jewelry are necklaces.,NA
+16,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some necklaces are pieces of cake.,NA
+16,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_A_target.png
+16,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_B_controlT.png
+16,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_C_controlF.png
+16,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some necklaces are pieces of jewelry.,NA
+16,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of jewelry are necklaces.,NA
+16,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some necklaces are pieces of cake.,NA
+16,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_A_target.png
+16,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_B_controlT.png
+16,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the necklaces are golden.,grid_image_16_C_controlF.png
+17,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some couches are pieces of furniture.,NA
+17,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of furniture are couches.,NA
+17,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some couches are pieces of bread.,NA
+17,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the couches are pink.,grid_image_17_A_target.png
+17,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the couches are pink.,grid_image_17_B_controlT.png
+17,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the couches are pink.,grid_image_17_C_controlF.png
+17,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some couches are pieces of furniture.,NA
+17,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of furniture are couches.,NA
+17,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some couches are pieces of bread.,NA
+17,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the couches are pink.,grid_image_17_A_target.png
+17,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the couches are pink.,grid_image_17_B_controlT.png
+17,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the couches are pink.,grid_image_17_C_controlF.png
+18,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some sandwiches are food items.,NA
+18,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some food items are sandwiches.,NA
+18,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some sandwiches are bathroom items.,NA
+18,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_A_target.png
+18,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_B_controlT.png
+18,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_C_controlF.png
+18,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some sandwiches are food items.,NA
+18,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some food items are sandwiches.,NA
+18,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some sandwiches are bathroom items.,NA
+18,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_A_target.png
+18,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_B_controlT.png
+18,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the sandwiches are grilled.,grid_image_18_C_controlF.png
+19,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some mountains are landforms.,NA
+19,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some landforms are mountains.,NA
+19,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some mountains are currencies.,NA
+19,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_A_target.png
+19,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_B_controlT.png
+19,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_C_controlF.png
+19,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some mountains are landforms.,NA
+19,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some landforms are mountains.,NA
+19,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some mountains are currencies.,NA
+19,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_A_target.png
+19,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_B_controlT.png
+19,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the mountains are snow-capped.,grid_image_19_C_controlF.png
+20,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some hats are pieces of headwear.,NA
+20,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of headwear are hats.,NA
+20,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some hats are pieces of legislation.,NA
+20,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_A_target.png
+20,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_B_controlT.png
+20,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_C_controlF.png
+20,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some hats are pieces of headwear.,NA
+20,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of headwear are hats.,NA
+20,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some hats are pieces of legislation.,NA
+20,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_A_target.png
+20,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_B_controlT.png
+20,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the hats are baseball caps.,grid_image_20_C_controlF.png
+21,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some crocodiles are reptiles.,NA
+21,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some reptiles are crocodiles.,NA
+21,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some crocodiles are mushrooms.,NA
+21,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_A_target.png
+21,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_B_controlT.png
+21,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_C_controlF.png
+21,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some crocodiles are reptiles.,NA
+21,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some reptiles are crocodiles.,NA
+21,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some crocodiles are mushrooms.,NA
+21,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_A_target.png
+21,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_B_controlT.png
+21,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the crocodiles are gray.,grid_image_21_C_controlF.png
+22,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some suitcases are pieces of luggage.,NA
+22,2a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of luggage are suitcases.,NA
+22,3a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some suitcases are pieces of music.,NA
+22,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_A_target.png
+22,2b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the suitcases are open.,grid_image_22_B_controlT.png
+22,3b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_C_controlF.png
+22,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some suitcases are pieces of luggage.,NA
+22,2c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of luggage are suitcases.,NA
+22,3c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some suitcases are pieces of music.,NA
+22,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_A_target.png
+22,2d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the suitcases are open.,grid_image_22_B_controlT.png
+22,3d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the suitcases are open.,grid_image_22_C_controlF.png
+23,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some cameras are devices.,NA
+23,1a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some devices are cameras.,NA
+23,2a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some cameras are tables.,NA
+23,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_A_target.png
+23,1b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the cameras are analog.,grid_image_23_B_controlT.png
+23,2b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_C_controlF.png
+23,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some cameras are devices.,NA
+23,1c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some devices are cameras.,NA
+23,2c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some cameras are tables.,NA
+23,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_A_target.png
+23,1d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the cameras are analog.,grid_image_23_B_controlT.png
+23,2d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the cameras are analog.,grid_image_23_C_controlF.png
+24,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Some shoes are pieces of footwear.,NA
+24,3a,<b>Is this a true statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of footwear are shoes.,NA
+24,1a,<b>Is this a true statement?</b>,controlF,No.,Yes.,No.,Some shoes are pieces of poetry.,NA
+24,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_A_target.png
+24,3b,<b>Is this a true description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_B_controlT.png
+24,1b,<b>Is this a true description of the picture?</b>,controlF,No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_C_controlF.png
+24,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Some shoes are pieces of footwear.,NA
+24,3c,<b>Is this a good statement?</b>,controlT,Yes.,Yes.,No.,Some pieces of footwear are shoes.,NA
+24,1c,<b>Is this a good statement?</b>,controlF,No.,Yes.,No.,Some shoes are pieces of poetry.,NA
+24,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_A_target.png
+24,3d,<b>Is this a good description of the picture?</b>,controlT,Yes.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_B_controlT.png
+24,1d,<b>Is this a good description of the picture?</b>,controlF,No.,Yes.,No.,Some of the shoes are high-heels.,grid_image_24_C_controlF.png
