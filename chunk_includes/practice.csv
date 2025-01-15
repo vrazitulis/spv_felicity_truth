@@ -1,49 +1,49 @@
 item,list,question,condition,exp_answer,option_1,option_2,sentence,picture
-p1,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p1,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p1,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p1,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tennis balls can be hit with rackets.,NA
-p1,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p1,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p1,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
-p2,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p2,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p2,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p2,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Smartphones do not have touch screens.,NA
-p2,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p2,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p2,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
-p3,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p3,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p3,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p3,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
-p3,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p3,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p3,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
-p4,1a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,2a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,3a,<b>Is this a true statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,1b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
-p4,2b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
-p4,3b,<b>Is this a true description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
-p4,1c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,2c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,3c,<b>Is this a good statement?</b>,target,Yes./No.,Yes.,No.,Tomatoes can be made into sauce.,NA
-p4,1d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
-p4,2d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
-p4,3d,<b>Is this a good description of the picture?</b>,target,Yes./No.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p1,1a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,2a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,3a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,1b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p1,2b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p1,3b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p1,1c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,2c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,3c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tennis balls can be hit with rackets.,NA
+p1,1d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p1,2d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p1,3d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,There are nine tennis balls.,grid_image_p1.png
+p2,1a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,2a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,3a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,1b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p2,2b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p2,3b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p2,1c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,2c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,3c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,Smartphones do not have touch screens.,NA
+p2,1d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p2,2d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p2,3d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"In the first row from above, there are smartphones.",grid_image_p2.png
+p3,1a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,2a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,3a,<b>Is this a true statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,1b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p3,2b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p3,3b,<b>Is this a true description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p3,1c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,2c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,3c,<b>Is this a good statement?</b>,practiceF,No.,Yes.,No.,"In math, plus signs indicate subtraction.",NA
+p3,1d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p3,2d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p3,3d,<b>Is this a good description of the picture?</b>,practiceF,No.,Yes.,No.,"Right in the middle, there is a plus sign.",grid_image_p3.png
+p4,1a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,2a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,3a,<b>Is this a true statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,1b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p4,2b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p4,3b,<b>Is this a true description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p4,1c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,2c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,3c,<b>Is this a good statement?</b>,practiceT,Yes.,Yes.,No.,Tomatoes can be made into sauce.,NA
+p4,1d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p4,2d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
+p4,3d,<b>Is this a good description of the picture?</b>,practiceT,Yes.,Yes.,No.,"In the upper right corner, there is a tomato.",grid_image_p4.png
