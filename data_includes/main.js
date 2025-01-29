@@ -77,7 +77,7 @@ newTrial("transition",
      // Automatically print all Text elements, centered
     defaultText.center().print()
     ,
-    newText("myText", "The practice session is over. The real experiment is about to start!<br><br>")
+    newText("myText", "The practice session is over. The real study is about to begin!<br><br>")
         .center()
         .print()
     ,
