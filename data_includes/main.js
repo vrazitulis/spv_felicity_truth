@@ -211,7 +211,9 @@ Template("data.csv", row =>
             .add(
                 0, 0, 
                 row.list === "1b" | row.list === "2b" | row.list === "3b"
+                | row.list === "4b" | row.list === "5b" | row.list === "6b"
                 | row.list === "1d" | row.list === "2d" | row.list === "3d"
+                | row.list === "4d" | row.list === "5d" | row.list === "6d"
                     ? newImage("target", row.picture) 
                     : newText("")
             )
