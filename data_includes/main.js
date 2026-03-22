@@ -25,7 +25,7 @@ SetCounter("counter", "inc", 1);
 
 // Fullscreen
 newTrial("fullscreen",
-  newButton("Click to enter fullscreen mode")
+  newButton("Cliquez pour passer en mode plein écran")
     .center()
     .print()
     .wait()
@@ -37,10 +37,10 @@ newTrial("fullscreen",
 newTrial("consent",
     newHtml("consent_form", "consent.html")
         .cssContainer({"width":"700px"})
-        .checkboxWarning("You have to consent before continuing...")
+        .checkboxWarning("Vous devez donner votre consentement avant de continuer...")
         .print()
     ,
-    newButton("continue", "Click to continue")
+    newButton("continue", "Cliquez pour continuer")
         .center()
         .css("font-size", "medium")
         .print()
@@ -51,7 +51,7 @@ newTrial("consent",
 
 
 newTrial("feedback",
-    newText("feedback_question", "Do you have any comments or remarks for the experimenters?")
+    newText("feedback_question", "Avez-vous des commentaires ou remarques à transmettre aux expérimentateurs ?")
         .center()
         .print()
     ,
@@ -65,7 +65,7 @@ newTrial("feedback",
         .print()
     ,
     
-    newButton("Click to continue")
+    newButton("Cliquez pour continuer")
         .center()
         .print()
         .wait()
@@ -77,11 +77,11 @@ newTrial("transition",
      // Automatically print all Text elements, centered
     defaultText.center().print()
     ,
-    newText("myText", "The practice session is over. The real study is about to begin!<br><br>")
+    newText("myText", "La session d’entraînement est terminée. L’étude réelle va commencer !<br><br>")
         .center()
         .print()
     ,
-    newButton("continue", "Click to continue")
+    newButton("continue", "Cliquez pour continuer")
         .center()
         .css("font-size", "medium")
         .print()
@@ -91,11 +91,11 @@ newTrial("transition",
 
 // Transition to feedback text field
 newTrial("transToFeedback",
-    newText("myText", "You have reached the end of the experiment!<br><br>")
+    newText("myText", "Vous êtes arrivé à la fin de l’expérience !<br><br>")
         .center()
         .print()
     ,
-    newButton("continue", "Click to continue")
+    newButton("continue", "Cliquez pour continuer")
         .center()
         .css("font-size", "medium")
         .print()
@@ -114,7 +114,7 @@ Template("dummy.csv", row =>
         .cssContainer({"width":"700px"})
         .print()
     ,
-    newButton("continue", "Click to continue")
+    newButton("continue", "Cliquez pour continuer")
         .center()
         .css("font-size", "medium")
         .print()
@@ -131,7 +131,7 @@ Template("practice.csv", row =>
             .center()
             .print()
         ,
-        newText("myText", "Press the SPACE bar to view the next example.")
+        newText("myText", "Appuyez sur la barre ESPACE pour voir l’exemple suivant.")
         .center()
         .print()
         ,
@@ -158,12 +158,12 @@ Template("practice.csv", row =>
             .center()
             .print()
         ,
-        newText("<h3>"+row.sentence+"</h3><br>&nbsp;")
+        newText("<h3>"+row.sentence+"</h3><br> ")
         .center()
         .print()
         ,
         newController("myController", "Question", {
-            instructions: "Answer using the D or K key.",
+            instructions: "Répondez en appuyant sur la touche D ou K.",
             q: row.question,
             as: [["D", "<b>"+row.option_1+"</b> (D)"], ["K", "<b>"+row.option_2+"</b> (K)"]],
             randomOrder: false,
@@ -193,7 +193,7 @@ Template("data.csv", row =>
             .center()
             .print()
         ,
-        newText("myText", "Press the SPACE bar to view the next example.")
+        newText("myText", "Appuyez sur la barre ESPACE pour voir l’exemple suivant.")
         .center()
         .print()
         ,
@@ -220,12 +220,12 @@ Template("data.csv", row =>
             .center()
             .print()
         ,
-        newText("<h3>"+row.sentence+"</h3><br>&nbsp;")
+        newText("<h3>"+row.sentence+"</h3><br> ")
         .center()
         .print()
         ,
         newController("myController", "Question", {
-            instructions: "Answer using the D or K key.",
+            instructions: "Répondez en appuyant sur la touche D ou K.",
             q: row.question,
             as: [["D", "<b>"+row.option_1+"</b> (D)"], ["K", "<b>"+row.option_2+"</b> (K)"]],
             randomOrder: false,
@@ -253,16 +253,15 @@ SendResults("send")
 
 // Completion screen
 newTrial("confirmation-prolific" ,
-    newText("<p>Thanks for your participation!</p>")
+    newText("<p>Merci pour votre participation !</p>")
         .center()
         .print()
     ,
  // This is where you should put the link from the last step.
-    newText("<p><a href='https://app.prolific.com/submissions/complete?cc=COOPRURX'>Click here to validate your participation on Prolific.</a></p>")
+    newText("<p><a href='https://app.prolific.com/submissions/complete?cc=COOPRURX'>Cliquez ici pour valider votre participation sur Prolific.</a></p>")
         .center()
         .print()
     ,
     newButton("void")
         .wait()
     ).setOption("countsForProgressBar", false)
-

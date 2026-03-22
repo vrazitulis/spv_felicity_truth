@@ -1,577 +1,577 @@
 item,list,question,condition,exp_answer,option_1,option_2,sentence,picture
-1,1a,Is this a true or a false statement?,T1,True/False,True,False,Some apples are fruits.,NA
-1,2a,Is this a true or a false statement?,T2,True,True,False,Some fruits are apples.,NA
-1,3a,Is this a true or a false statement?,T3,False,True,False,Some apples are cities.,NA
-1,4a,Is this a true or a false statement?,T4,True,True,False,All apples are fruits.,NA
-1,5a,Is this a true or a false statement?,T5,False,True,False,All fruits are apples.,NA
-1,6a,Is this a true or a false statement?,T6,False,True,False,All apples are cities.,NA
-1,1b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the apples are red.,grid_image_01_A_100.png
-1,2b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the apples are red.,grid_image_01_B_33.png
-1,3b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the apples are red.,grid_image_01_C_0.png
-1,4b,Is this a true or a false description of the picture?,T4,True,True,False,All of the apples are red.,grid_image_01_A_100.png
-1,5b,Is this a true or a false description of the picture?,T5,False,True,False,All of the apples are red.,grid_image_01_B_33.png
-1,6b,Is this a true or a false description of the picture?,T6,False,True,False,All of the apples are red.,grid_image_01_C_0.png
-1,1c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some apples are fruits.,NA
-1,2c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some fruits are apples.,NA
-1,3c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some apples are cities.,NA
-1,4c,Is this a good or a bad statement?,T4,Good,Good,Bad,All apples are fruits.,NA
-1,5c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All fruits are apples.,NA
-1,6c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All apples are cities.,NA
-1,1d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the apples are red.,grid_image_01_A_100.png
-1,2d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the apples are red.,grid_image_01_B_33.png
-1,3d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the apples are red.,grid_image_01_C_0.png
-1,4d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the apples are red.,grid_image_01_A_100.png
-1,5d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the apples are red.,grid_image_01_B_33.png
-1,6d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the apples are red.,grid_image_01_C_0.png
-2,6a,Is this a true or a false statement?,T1,True/False,True,False,Some horses are mammals.,NA
-2,1a,Is this a true or a false statement?,T2,True,True,False,Some mammals are horses.,NA
-2,2a,Is this a true or a false statement?,T3,False,True,False,Some horses are plants.,NA
-2,3a,Is this a true or a false statement?,T4,True,True,False,All horses are mammals.,NA
-2,4a,Is this a true or a false statement?,T5,False,True,False,All mammals are horses.,NA
-2,5a,Is this a true or a false statement?,T6,False,True,False,All horses are plants.,NA
-2,6b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the horses are brown.,grid_image_02_A_100.png
-2,1b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the horses are brown.,grid_image_02_B_33.png
-2,2b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the horses are brown.,grid_image_02_C_0.png
-2,3b,Is this a true or a false description of the picture?,T4,True,True,False,All of the horses are brown.,grid_image_02_A_100.png
-2,4b,Is this a true or a false description of the picture?,T5,False,True,False,All of the horses are brown.,grid_image_02_B_33.png
-2,5b,Is this a true or a false description of the picture?,T6,False,True,False,All of the horses are brown.,grid_image_02_C_0.png
-2,6c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some horses are mammals.,NA
-2,1c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some mammals are horses.,NA
-2,2c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some horses are plants.,NA
-2,3c,Is this a good or a bad statement?,T4,Good,Good,Bad,All horses are mammals.,NA
-2,4c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All mammals are horses.,NA
-2,5c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All horses are plants.,NA
-2,6d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the horses are brown.,grid_image_02_A_100.png
-2,1d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the horses are brown.,grid_image_02_B_33.png
-2,2d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the horses are brown.,grid_image_02_C_0.png
-2,3d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the horses are brown.,grid_image_02_A_100.png
-2,4d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the horses are brown.,grid_image_02_B_33.png
-2,5d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the horses are brown.,grid_image_02_C_0.png
-3,5a,Is this a true or a false statement?,T1,True/False,True,False,Some circles are shapes.,NA
-3,6a,Is this a true or a false statement?,T2,True,True,False,Some shapes are circles.,NA
-3,1a,Is this a true or a false statement?,T3,False,True,False,Some circles are sounds.,NA
-3,2a,Is this a true or a false statement?,T4,True,True,False,All circles are shapes.,NA
-3,3a,Is this a true or a false statement?,T5,False,True,False,All shapes are circles.,NA
-3,4a,Is this a true or a false statement?,T6,False,True,False,All circles are sounds.,NA
-3,5b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the circles are blue.,grid_image_03_A_100.png
-3,6b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the circles are blue.,grid_image_03_B_33.png
-3,1b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the circles are blue.,grid_image_03_C_0.png
-3,2b,Is this a true or a false description of the picture?,T4,True,True,False,All of the circles are blue.,grid_image_03_A_100.png
-3,3b,Is this a true or a false description of the picture?,T5,False,True,False,All of the circles are blue.,grid_image_03_B_33.png
-3,4b,Is this a true or a false description of the picture?,T6,False,True,False,All of the circles are blue.,grid_image_03_C_0.png
-3,5c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some circles are shapes.,NA
-3,6c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some shapes are circles.,NA
-3,1c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some circles are sounds.,NA
-3,2c,Is this a good or a bad statement?,T4,Good,Good,Bad,All circles are shapes.,NA
-3,3c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All shapes are circles.,NA
-3,4c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All circles are sounds.,NA
-3,5d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the circles are blue.,grid_image_03_A_100.png
-3,6d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the circles are blue.,grid_image_03_B_33.png
-3,1d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the circles are blue.,grid_image_03_C_0.png
-3,2d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the circles are blue.,grid_image_03_A_100.png
-3,3d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the circles are blue.,grid_image_03_B_33.png
-3,4d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the circles are blue.,grid_image_03_C_0.png
-4,4a,Is this a true or a false statement?,T1,True/False,True,False,Some houses are buildings.,NA
-4,5a,Is this a true or a false statement?,T2,True,True,False,Some buildings are houses.,NA
-4,6a,Is this a true or a false statement?,T3,False,True,False,Some houses are colors.,NA
-4,1a,Is this a true or a false statement?,T4,True,True,False,All houses are buildings.,NA
-4,2a,Is this a true or a false statement?,T5,False,True,False,All buildings are houses.,NA
-4,3a,Is this a true or a false statement?,T6,False,True,False,All houses are colors.,NA
-4,4b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the houses are mansions.,grid_image_04_A_100.png
-4,5b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the houses are mansions.,grid_image_04_B_33.png
-4,6b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the houses are mansions.,grid_image_04_C_0.png
-4,1b,Is this a true or a false description of the picture?,T4,True,True,False,All of the houses are mansions.,grid_image_04_A_100.png
-4,2b,Is this a true or a false description of the picture?,T5,False,True,False,All of the houses are mansions.,grid_image_04_B_33.png
-4,3b,Is this a true or a false description of the picture?,T6,False,True,False,All of the houses are mansions.,grid_image_04_C_0.png
-4,4c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some houses are buildings.,NA
-4,5c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some buildings are houses.,NA
-4,6c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some houses are colors.,NA
-4,1c,Is this a good or a bad statement?,T4,Good,Good,Bad,All houses are buildings.,NA
-4,2c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All buildings are houses.,NA
-4,3c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All houses are colors.,NA
-4,4d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the houses are mansions.,grid_image_04_A_100.png
-4,5d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the houses are mansions.,grid_image_04_B_33.png
-4,6d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the houses are mansions.,grid_image_04_C_0.png
-4,1d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the houses are mansions.,grid_image_04_A_100.png
-4,2d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the houses are mansions.,grid_image_04_B_33.png
-4,3d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the houses are mansions.,grid_image_04_C_0.png
-5,3a,Is this a true or a false statement?,T1,True/False,True,False,Some guitars are musical instruments.,NA
-5,4a,Is this a true or a false statement?,T2,True,True,False,Some musical instruments are guitars.,NA
-5,5a,Is this a true or a false statement?,T3,False,True,False,Some guitars are sports teams.,NA
-5,6a,Is this a true or a false statement?,T4,True,True,False,All guitars are musical instruments.,NA
-5,1a,Is this a true or a false statement?,T5,False,True,False,All musical instruments are guitars.,NA
-5,2a,Is this a true or a false statement?,T6,False,True,False,All guitars are sports teams.,NA
-5,3b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the guitars are electric.,grid_image_05_A_100.png
-5,4b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the guitars are electric.,grid_image_05_B_33.png
-5,5b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the guitars are electric.,grid_image_05_C_0.png
-5,6b,Is this a true or a false description of the picture?,T4,True,True,False,All of the guitars are electric.,grid_image_05_A_100.png
-5,1b,Is this a true or a false description of the picture?,T5,False,True,False,All of the guitars are electric.,grid_image_05_B_33.png
-5,2b,Is this a true or a false description of the picture?,T6,False,True,False,All of the guitars are electric.,grid_image_05_C_0.png
-5,3c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some guitars are musical instruments.,NA
-5,4c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some musical instruments are guitars.,NA
-5,5c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some guitars are sports teams.,NA
-5,6c,Is this a good or a bad statement?,T4,Good,Good,Bad,All guitars are musical instruments.,NA
-5,1c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All musical instruments are guitars.,NA
-5,2c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All guitars are sports teams.,NA
-5,3d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the guitars are electric.,grid_image_05_A_100.png
-5,4d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the guitars are electric.,grid_image_05_B_33.png
-5,5d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the guitars are electric.,grid_image_05_C_0.png
-5,6d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the guitars are electric.,grid_image_05_A_100.png
-5,1d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the guitars are electric.,grid_image_05_B_33.png
-5,2d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the guitars are electric.,grid_image_05_C_0.png
-6,2a,Is this a true or a false statement?,T1,True/False,True,False,Some ducks are birds.,NA
-6,3a,Is this a true or a false statement?,T2,True,True,False,Some birds are ducks.,NA
-6,4a,Is this a true or a false statement?,T3,False,True,False,Some ducks are numbers.,NA
-6,5a,Is this a true or a false statement?,T4,True,True,False,All ducks are birds.,NA
-6,6a,Is this a true or a false statement?,T5,False,True,False,All birds are ducks.,NA
-6,1a,Is this a true or a false statement?,T6,False,True,False,All ducks are numbers.,NA
-6,2b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the ducks are white.,grid_image_06_A_100.png
-6,3b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the ducks are white.,grid_image_06_B_33.png
-6,4b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the ducks are white.,grid_image_06_C_0.png
-6,5b,Is this a true or a false description of the picture?,T4,True,True,False,All of the ducks are white.,grid_image_06_A_100.png
-6,6b,Is this a true or a false description of the picture?,T5,False,True,False,All of the ducks are white.,grid_image_06_B_33.png
-6,1b,Is this a true or a false description of the picture?,T6,False,True,False,All of the ducks are white.,grid_image_06_C_0.png
-6,2c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some ducks are birds.,NA
-6,3c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some birds are ducks.,NA
-6,4c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some ducks are numbers.,NA
-6,5c,Is this a good or a bad statement?,T4,Good,Good,Bad,All ducks are birds.,NA
-6,6c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All birds are ducks.,NA
-6,1c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All ducks are numbers.,NA
-6,2d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the ducks are white.,grid_image_06_A_100.png
-6,3d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the ducks are white.,grid_image_06_B_33.png
-6,4d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the ducks are white.,grid_image_06_C_0.png
-6,5d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the ducks are white.,grid_image_06_A_100.png
-6,6d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the ducks are white.,grid_image_06_B_33.png
-6,1d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the ducks are white.,grid_image_06_C_0.png
-7,1a,Is this a true or a false statement?,T1,True/False,True,False,Some tulips are flowers.,NA
-7,2a,Is this a true or a false statement?,T2,True,True,False,Some flowers are tulips.,NA
-7,3a,Is this a true or a false statement?,T3,False,True,False,Some tulips are stars.,NA
-7,4a,Is this a true or a false statement?,T4,True,True,False,All tulips are flowers.,NA
-7,5a,Is this a true or a false statement?,T5,False,True,False,All flowers are tulips.,NA
-7,6a,Is this a true or a false statement?,T6,False,True,False,All tulips are stars.,NA
-7,1b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the tulips are yellow.,grid_image_07_A_100.png
-7,2b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the tulips are yellow.,grid_image_07_B_33.png
-7,3b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the tulips are yellow.,grid_image_07_C_0.png
-7,4b,Is this a true or a false description of the picture?,T4,True,True,False,All of the tulips are yellow.,grid_image_07_A_100.png
-7,5b,Is this a true or a false description of the picture?,T5,False,True,False,All of the tulips are yellow.,grid_image_07_B_33.png
-7,6b,Is this a true or a false description of the picture?,T6,False,True,False,All of the tulips are yellow.,grid_image_07_C_0.png
-7,1c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some tulips are flowers.,NA
-7,2c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some flowers are tulips.,NA
-7,3c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some tulips are stars.,NA
-7,4c,Is this a good or a bad statement?,T4,Good,Good,Bad,All tulips are flowers.,NA
-7,5c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All flowers are tulips.,NA
-7,6c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All tulips are stars.,NA
-7,1d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the tulips are yellow.,grid_image_07_A_100.png
-7,2d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the tulips are yellow.,grid_image_07_B_33.png
-7,3d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the tulips are yellow.,grid_image_07_C_0.png
-7,4d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the tulips are yellow.,grid_image_07_A_100.png
-7,5d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the tulips are yellow.,grid_image_07_B_33.png
-7,6d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the tulips are yellow.,grid_image_07_C_0.png
-8,6a,Is this a true or a false statement?,T1,True/False,True,False,Some bees are insects.,NA
-8,1a,Is this a true or a false statement?,T2,True,True,False,Some insects are bees.,NA
-8,2a,Is this a true or a false statement?,T3,False,True,False,Some bees are snakes.,NA
-8,3a,Is this a true or a false statement?,T4,True,True,False,All bees are insects.,NA
-8,4a,Is this a true or a false statement?,T5,False,True,False,All insects are bees.,NA
-8,5a,Is this a true or a false statement?,T6,False,True,False,All bees are snakes.,NA
-8,6b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the bees are striped.,grid_image_08_A_100.png
-8,1b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the bees are striped.,grid_image_08_B_33.png
-8,2b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the bees are striped.,grid_image_08_C_0.png
-8,3b,Is this a true or a false description of the picture?,T4,True,True,False,All of the bees are striped.,grid_image_08_A_100.png
-8,4b,Is this a true or a false description of the picture?,T5,False,True,False,All of the bees are striped.,grid_image_08_B_33.png
-8,5b,Is this a true or a false description of the picture?,T6,False,True,False,All of the bees are striped.,grid_image_08_C_0.png
-8,6c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some bees are insects.,NA
-8,1c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some insects are bees.,NA
-8,2c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some bees are snakes.,NA
-8,3c,Is this a good or a bad statement?,T4,Good,Good,Bad,All bees are insects.,NA
-8,4c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All insects are bees.,NA
-8,5c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All bees are snakes.,NA
-8,6d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the bees are striped.,grid_image_08_A_100.png
-8,1d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the bees are striped.,grid_image_08_B_33.png
-8,2d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the bees are striped.,grid_image_08_C_0.png
-8,3d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the bees are striped.,grid_image_08_A_100.png
-8,4d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the bees are striped.,grid_image_08_B_33.png
-8,5d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the bees are striped.,grid_image_08_C_0.png
-9,5a,Is this a true or a false statement?,T1,True/False,True,False,Some triangles are polygons.,NA
-9,6a,Is this a true or a false statement?,T2,True,True,False,Some polygons are triangles.,NA
-9,1a,Is this a true or a false statement?,T3,False,True,False,Some triangles are languages.,NA
-9,2a,Is this a true or a false statement?,T4,True,True,False,All triangles are polygons.,NA
-9,3a,Is this a true or a false statement?,T5,False,True,False,All polygons are triangles.,NA
-9,4a,Is this a true or a false statement?,T6,False,True,False,All triangles are languages.,NA
-9,5b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the triangles are equal-sided.,grid_image_09_A_100.png
-9,6b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the triangles are equal-sided.,grid_image_09_B_33.png
-9,1b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the triangles are equal-sided.,grid_image_09_C_0.png
-9,2b,Is this a true or a false description of the picture?,T4,True,True,False,All of the triangles are equal-sided.,grid_image_09_A_100.png
-9,3b,Is this a true or a false description of the picture?,T5,False,True,False,All of the triangles are equal-sided.,grid_image_09_B_33.png
-9,4b,Is this a true or a false description of the picture?,T6,False,True,False,All of the triangles are equal-sided.,grid_image_09_C_0.png
-9,5c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some triangles are polygons.,NA
-9,6c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some polygons are triangles.,NA
-9,1c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some triangles are languages.,NA
-9,2c,Is this a good or a bad statement?,T4,Good,Good,Bad,All triangles are polygons.,NA
-9,3c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All polygons are triangles.,NA
-9,4c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All triangles are languages.,NA
-9,5d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the triangles are equal-sided.,grid_image_09_A_100.png
-9,6d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the triangles are equal-sided.,grid_image_09_B_33.png
-9,1d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the triangles are equal-sided.,grid_image_09_C_0.png
-9,2d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the triangles are equal-sided.,grid_image_09_A_100.png
-9,3d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the triangles are equal-sided.,grid_image_09_B_33.png
-9,4d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the triangles are equal-sided.,grid_image_09_C_0.png
-10,4a,Is this a true or a false statement?,T1,True/False,True,False,Some peppers are vegetables.,NA
-10,5a,Is this a true or a false statement?,T2,True,True,False,Some vegetables are peppers.,NA
-10,6a,Is this a true or a false statement?,T3,False,True,False,Some peppers are rivers.,NA
-10,1a,Is this a true or a false statement?,T4,True,True,False,All peppers are vegetables.,NA
-10,2a,Is this a true or a false statement?,T5,False,True,False,All vegetables are peppers.,NA
-10,3a,Is this a true or a false statement?,T6,False,True,False,All peppers are rivers.,NA
-10,4b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the peppers are green.,grid_image_10_A_100.png
-10,5b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the peppers are green.,grid_image_10_B_33.png
-10,6b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the peppers are green.,grid_image_10_C_0.png
-10,1b,Is this a true or a false description of the picture?,T4,True,True,False,All of the peppers are green.,grid_image_10_A_100.png
-10,2b,Is this a true or a false description of the picture?,T5,False,True,False,All of the peppers are green.,grid_image_10_B_33.png
-10,3b,Is this a true or a false description of the picture?,T6,False,True,False,All of the peppers are green.,grid_image_10_C_0.png
-10,4c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some peppers are vegetables.,NA
-10,5c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some vegetables are peppers.,NA
-10,6c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some peppers are rivers.,NA
-10,1c,Is this a good or a bad statement?,T4,Good,Good,Bad,All peppers are vegetables.,NA
-10,2c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All vegetables are peppers.,NA
-10,3c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All peppers are rivers.,NA
-10,4d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the peppers are green.,grid_image_10_A_100.png
-10,5d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the peppers are green.,grid_image_10_B_33.png
-10,6d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the peppers are green.,grid_image_10_C_0.png
-10,1d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the peppers are green.,grid_image_10_A_100.png
-10,2d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the peppers are green.,grid_image_10_B_33.png
-10,3d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the peppers are green.,grid_image_10_C_0.png
-11,3a,Is this a true or a false statement?,T1,True/False,True,False,Some laptops are computers.,NA
-11,4a,Is this a true or a false statement?,T2,True,True,False,Some computers are laptops.,NA
-11,5a,Is this a true or a false statement?,T3,False,True,False,Some laptops are boats.,NA
-11,6a,Is this a true or a false statement?,T4,True,True,False,All laptops are computers.,NA
-11,1a,Is this a true or a false statement?,T5,False,True,False,All computers are laptops.,NA
-11,2a,Is this a true or a false statement?,T6,False,True,False,All laptops are boats.,NA
-11,3b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the laptops are black.,grid_image_11_A_100.png
-11,4b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the laptops are black.,grid_image_11_B_33.png
-11,5b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the laptops are black.,grid_image_11_C_0.png
-11,6b,Is this a true or a false description of the picture?,T4,True,True,False,All of the laptops are black.,grid_image_11_A_100.png
-11,1b,Is this a true or a false description of the picture?,T5,False,True,False,All of the laptops are black.,grid_image_11_B_33.png
-11,2b,Is this a true or a false description of the picture?,T6,False,True,False,All of the laptops are black.,grid_image_11_C_0.png
-11,3c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some laptops are computers.,NA
-11,4c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some computers are laptops.,NA
-11,5c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some laptops are boats.,NA
-11,6c,Is this a good or a bad statement?,T4,Good,Good,Bad,All laptops are computers.,NA
-11,1c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All computers are laptops.,NA
-11,2c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All laptops are boats.,NA
-11,3d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the laptops are black.,grid_image_11_A_100.png
-11,4d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the laptops are black.,grid_image_11_B_33.png
-11,5d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the laptops are black.,grid_image_11_C_0.png
-11,6d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the laptops are black.,grid_image_11_A_100.png
-11,1d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the laptops are black.,grid_image_11_B_33.png
-11,2d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the laptops are black.,grid_image_11_C_0.png
-12,2a,Is this a true or a false statement?,T1,True/False,True,False,Some cars are vehicles.,NA
-12,3a,Is this a true or a false statement?,T2,True,True,False,Some vehicles are cars.,NA
-12,4a,Is this a true or a false statement?,T3,False,True,False,Some cars are ropes.,NA
-12,5a,Is this a true or a false statement?,T4,True,True,False,All cars are vehicles.,NA
-12,6a,Is this a true or a false statement?,T5,False,True,False,All vehicles are cars.,NA
-12,1a,Is this a true or a false statement?,T6,False,True,False,All cars are ropes.,NA
-12,2b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the cars are minivans.,grid_image_12_A_100.png
-12,3b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the cars are minivans.,grid_image_12_B_33.png
-12,4b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the cars are minivans.,grid_image_12_C_0.png
-12,5b,Is this a true or a false description of the picture?,T4,True,True,False,All of the cars are minivans.,grid_image_12_A_100.png
-12,6b,Is this a true or a false description of the picture?,T5,False,True,False,All of the cars are minivans.,grid_image_12_B_33.png
-12,1b,Is this a true or a false description of the picture?,T6,False,True,False,All of the cars are minivans.,grid_image_12_C_0.png
-12,2c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some cars are vehicles.,NA
-12,3c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some vehicles are cars.,NA
-12,4c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some cars are ropes.,NA
-12,5c,Is this a good or a bad statement?,T4,Good,Good,Bad,All cars are vehicles.,NA
-12,6c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All vehicles are cars.,NA
-12,1c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All cars are ropes.,NA
-12,2d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the cars are minivans.,grid_image_12_A_100.png
-12,3d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the cars are minivans.,grid_image_12_B_33.png
-12,4d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the cars are minivans.,grid_image_12_C_0.png
-12,5d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the cars are minivans.,grid_image_12_A_100.png
-12,6d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the cars are minivans.,grid_image_12_B_33.png
-12,1d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the cars are minivans.,grid_image_12_C_0.png
-13,1a,Is this a true or a false statement?,T1,True/False,True,False,Some trees are plants.,NA
-13,2a,Is this a true or a false statement?,T2,True,True,False,Some plants are trees.,NA
-13,3a,Is this a true or a false statement?,T3,False,True,False,Some trees are animals.,NA
-13,4a,Is this a true or a false statement?,T4,True,True,False,All trees are plants.,NA
-13,5a,Is this a true or a false statement?,T5,False,True,False,All plants are trees.,NA
-13,6a,Is this a true or a false statement?,T6,False,True,False,All trees are animals.,NA
-13,1b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the trees are palms.,grid_image_13_A_100.png
-13,2b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the trees are palms.,grid_image_13_B_33.png
-13,3b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the trees are palms.,grid_image_13_C_0.png
-13,4b,Is this a true or a false description of the picture?,T4,True,True,False,All of the trees are palms.,grid_image_13_A_100.png
-13,5b,Is this a true or a false description of the picture?,T5,False,True,False,All of the trees are palms.,grid_image_13_B_33.png
-13,6b,Is this a true or a false description of the picture?,T6,False,True,False,All of the trees are palms.,grid_image_13_C_0.png
-13,1c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some trees are plants.,NA
-13,2c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some plants are trees.,NA
-13,3c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some trees are animals.,NA
-13,4c,Is this a good or a bad statement?,T4,Good,Good,Bad,All trees are plants.,NA
-13,5c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All plants are trees.,NA
-13,6c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All trees are animals.,NA
-13,1d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the trees are palms.,grid_image_13_A_100.png
-13,2d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the trees are palms.,grid_image_13_B_33.png
-13,3d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the trees are palms.,grid_image_13_C_0.png
-13,4d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the trees are palms.,grid_image_13_A_100.png
-13,5d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the trees are palms.,grid_image_13_B_33.png
-13,6d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the trees are palms.,grid_image_13_C_0.png
-14,6a,Is this a true or a false statement?,T1,True/False,True,False,Some shirts are clothes.,NA
-14,1a,Is this a true or a false statement?,T2,True,True,False,Some clothes are shirts.,NA
-14,2a,Is this a true or a false statement?,T3,False,True,False,Some shirts are machines.,NA
-14,3a,Is this a true or a false statement?,T4,True,True,False,All shirts are clothes.,NA
-14,4a,Is this a true or a false statement?,T5,False,True,False,All clothes are shirts.,NA
-14,5a,Is this a true or a false statement?,T6,False,True,False,All shirts are machines.,NA
-14,6b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the shirts are dirty.,grid_image_14_A_100.png
-14,1b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the shirts are dirty.,grid_image_14_B_33.png
-14,2b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the shirts are dirty.,grid_image_14_C_0.png
-14,3b,Is this a true or a false description of the picture?,T4,True,True,False,All of the shirts are dirty.,grid_image_14_A_100.png
-14,4b,Is this a true or a false description of the picture?,T5,False,True,False,All of the shirts are dirty.,grid_image_14_B_33.png
-14,5b,Is this a true or a false description of the picture?,T6,False,True,False,All of the shirts are dirty.,grid_image_14_C_0.png
-14,6c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some shirts are clothes.,NA
-14,1c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some clothes are shirts.,NA
-14,2c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some shirts are machines.,NA
-14,3c,Is this a good or a bad statement?,T4,Good,Good,Bad,All shirts are clothes.,NA
-14,4c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All clothes are shirts.,NA
-14,5c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All shirts are machines.,NA
-14,6d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the shirts are dirty.,grid_image_14_A_100.png
-14,1d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the shirts are dirty.,grid_image_14_B_33.png
-14,2d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the shirts are dirty.,grid_image_14_C_0.png
-14,3d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the shirts are dirty.,grid_image_14_A_100.png
-14,4d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the shirts are dirty.,grid_image_14_B_33.png
-14,5d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the shirts are dirty.,grid_image_14_C_0.png
-15,5a,Is this a true or a false statement?,T1,True/False,True,False,Some hammers are tools.,NA
-15,6a,Is this a true or a false statement?,T2,True,True,False,Some tools are hammers.,NA
-15,1a,Is this a true or a false statement?,T3,False,True,False,Some hammers are doors.,NA
-15,2a,Is this a true or a false statement?,T4,True,True,False,All hammers are tools.,NA
-15,3a,Is this a true or a false statement?,T5,False,True,False,All tools are hammers.,NA
-15,4a,Is this a true or a false statement?,T6,False,True,False,All hammers are doors.,NA
-15,5b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the hammers are broken.,grid_image_15_A_100.png
-15,6b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the hammers are broken.,grid_image_15_B_33.png
-15,1b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the hammers are broken.,grid_image_15_C_0.png
-15,2b,Is this a true or a false description of the picture?,T4,True,True,False,All of the hammers are broken.,grid_image_15_A_100.png
-15,3b,Is this a true or a false description of the picture?,T5,False,True,False,All of the hammers are broken.,grid_image_15_B_33.png
-15,4b,Is this a true or a false description of the picture?,T6,False,True,False,All of the hammers are broken.,grid_image_15_C_0.png
-15,5c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some hammers are tools.,NA
-15,6c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some tools are hammers.,NA
-15,1c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some hammers are doors.,NA
-15,2c,Is this a good or a bad statement?,T4,Good,Good,Bad,All hammers are tools.,NA
-15,3c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All tools are hammers.,NA
-15,4c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All hammers are doors.,NA
-15,5d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the hammers are broken.,grid_image_15_A_100.png
-15,6d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the hammers are broken.,grid_image_15_B_33.png
-15,1d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the hammers are broken.,grid_image_15_C_0.png
-15,2d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the hammers are broken.,grid_image_15_A_100.png
-15,3d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the hammers are broken.,grid_image_15_B_33.png
-15,4d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the hammers are broken.,grid_image_15_C_0.png
-16,4a,Is this a true or a false statement?,T1,True/False,True,False,Some necklaces are pieces of jewelry.,NA
-16,5a,Is this a true or a false statement?,T2,True,True,False,Some pieces of jewelry are necklaces.,NA
-16,6a,Is this a true or a false statement?,T3,False,True,False,Some necklaces are pieces of cake.,NA
-16,1a,Is this a true or a false statement?,T4,True,True,False,All necklaces are pieces of jewelry.,NA
-16,2a,Is this a true or a false statement?,T5,False,True,False,All pieces of jewelry are necklaces.,NA
-16,3a,Is this a true or a false statement?,T6,False,True,False,All necklaces are pieces of cake.,NA
-16,4b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the necklaces are golden.,grid_image_16_A_100.png
-16,5b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the necklaces are golden.,grid_image_16_B_33.png
-16,6b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the necklaces are golden.,grid_image_16_C_0.png
-16,1b,Is this a true or a false description of the picture?,T4,True,True,False,All of the necklaces are golden.,grid_image_16_A_100.png
-16,2b,Is this a true or a false description of the picture?,T5,False,True,False,All of the necklaces are golden.,grid_image_16_B_33.png
-16,3b,Is this a true or a false description of the picture?,T6,False,True,False,All of the necklaces are golden.,grid_image_16_C_0.png
-16,4c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some necklaces are pieces of jewelry.,NA
-16,5c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some pieces of jewelry are necklaces.,NA
-16,6c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some necklaces are pieces of cake.,NA
-16,1c,Is this a good or a bad statement?,T4,Good,Good,Bad,All necklaces are pieces of jewelry.,NA
-16,2c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All pieces of jewelry are necklaces.,NA
-16,3c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All necklaces are pieces of cake.,NA
-16,4d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the necklaces are golden.,grid_image_16_A_100.png
-16,5d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the necklaces are golden.,grid_image_16_B_33.png
-16,6d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the necklaces are golden.,grid_image_16_C_0.png
-16,1d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the necklaces are golden.,grid_image_16_A_100.png
-16,2d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the necklaces are golden.,grid_image_16_B_33.png
-16,3d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the necklaces are golden.,grid_image_16_C_0.png
-17,3a,Is this a true or a false statement?,T1,True/False,True,False,Some couches are pieces of furniture.,NA
-17,4a,Is this a true or a false statement?,T2,True,True,False,Some pieces of furniture are couches.,NA
-17,5a,Is this a true or a false statement?,T3,False,True,False,Some couches are pieces of bread.,NA
-17,6a,Is this a true or a false statement?,T4,True,True,False,All couches are pieces of furniture.,NA
-17,1a,Is this a true or a false statement?,T5,False,True,False,All pieces of furniture are couches.,NA
-17,2a,Is this a true or a false statement?,T6,False,True,False,All couches are pieces of bread.,NA
-17,3b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the couches are pink.,grid_image_17_A_100.png
-17,4b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the couches are pink.,grid_image_17_B_33.png
-17,5b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the couches are pink.,grid_image_17_C_0.png
-17,6b,Is this a true or a false description of the picture?,T4,True,True,False,All of the couches are pink.,grid_image_17_A_100.png
-17,1b,Is this a true or a false description of the picture?,T5,False,True,False,All of the couches are pink.,grid_image_17_B_33.png
-17,2b,Is this a true or a false description of the picture?,T6,False,True,False,All of the couches are pink.,grid_image_17_C_0.png
-17,3c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some couches are pieces of furniture.,NA
-17,4c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some pieces of furniture are couches.,NA
-17,5c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some couches are pieces of bread.,NA
-17,6c,Is this a good or a bad statement?,T4,Good,Good,Bad,All couches are pieces of furniture.,NA
-17,1c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All pieces of furniture are couches.,NA
-17,2c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All couches are pieces of bread.,NA
-17,3d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the couches are pink.,grid_image_17_A_100.png
-17,4d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the couches are pink.,grid_image_17_B_33.png
-17,5d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the couches are pink.,grid_image_17_C_0.png
-17,6d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the couches are pink.,grid_image_17_A_100.png
-17,1d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the couches are pink.,grid_image_17_B_33.png
-17,2d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the couches are pink.,grid_image_17_C_0.png
-18,2a,Is this a true or a false statement?,T1,True/False,True,False,Some sandwiches are food items.,NA
-18,3a,Is this a true or a false statement?,T2,True,True,False,Some food items are sandwiches.,NA
-18,4a,Is this a true or a false statement?,T3,False,True,False,Some sandwiches are bathroom items.,NA
-18,5a,Is this a true or a false statement?,T4,True,True,False,All sandwiches are food items.,NA
-18,6a,Is this a true or a false statement?,T5,False,True,False,All food items are sandwiches.,NA
-18,1a,Is this a true or a false statement?,T6,False,True,False,All sandwiches are bathroom items.,NA
-18,2b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the sandwiches are grilled.,grid_image_18_A_100.png
-18,3b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the sandwiches are grilled.,grid_image_18_B_33.png
-18,4b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the sandwiches are grilled.,grid_image_18_C_0.png
-18,5b,Is this a true or a false description of the picture?,T4,True,True,False,All of the sandwiches are grilled.,grid_image_18_A_100.png
-18,6b,Is this a true or a false description of the picture?,T5,False,True,False,All of the sandwiches are grilled.,grid_image_18_B_33.png
-18,1b,Is this a true or a false description of the picture?,T6,False,True,False,All of the sandwiches are grilled.,grid_image_18_C_0.png
-18,2c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some sandwiches are food items.,NA
-18,3c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some food items are sandwiches.,NA
-18,4c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some sandwiches are bathroom items.,NA
-18,5c,Is this a good or a bad statement?,T4,Good,Good,Bad,All sandwiches are food items.,NA
-18,6c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All food items are sandwiches.,NA
-18,1c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All sandwiches are bathroom items.,NA
-18,2d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the sandwiches are grilled.,grid_image_18_A_100.png
-18,3d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the sandwiches are grilled.,grid_image_18_B_33.png
-18,4d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the sandwiches are grilled.,grid_image_18_C_0.png
-18,5d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the sandwiches are grilled.,grid_image_18_A_100.png
-18,6d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the sandwiches are grilled.,grid_image_18_B_33.png
-18,1d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the sandwiches are grilled.,grid_image_18_C_0.png
-19,1a,Is this a true or a false statement?,T1,True/False,True,False,Some mountains are landforms.,NA
-19,2a,Is this a true or a false statement?,T2,True,True,False,Some landforms are mountains.,NA
-19,3a,Is this a true or a false statement?,T3,False,True,False,Some mountains are currencies.,NA
-19,4a,Is this a true or a false statement?,T4,True,True,False,All mountains are landforms.,NA
-19,5a,Is this a true or a false statement?,T5,False,True,False,All landforms are mountains.,NA
-19,6a,Is this a true or a false statement?,T6,False,True,False,All mountains are currencies.,NA
-19,1b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the mountains are snow-capped.,grid_image_19_A_100.png
-19,2b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the mountains are snow-capped.,grid_image_19_B_33.png
-19,3b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the mountains are snow-capped.,grid_image_19_C_0.png
-19,4b,Is this a true or a false description of the picture?,T4,True,True,False,All of the mountains are snow-capped.,grid_image_19_A_100.png
-19,5b,Is this a true or a false description of the picture?,T5,False,True,False,All of the mountains are snow-capped.,grid_image_19_B_33.png
-19,6b,Is this a true or a false description of the picture?,T6,False,True,False,All of the mountains are snow-capped.,grid_image_19_C_0.png
-19,1c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some mountains are landforms.,NA
-19,2c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some landforms are mountains.,NA
-19,3c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some mountains are currencies.,NA
-19,4c,Is this a good or a bad statement?,T4,Good,Good,Bad,All mountains are landforms.,NA
-19,5c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All landforms are mountains.,NA
-19,6c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All mountains are currencies.,NA
-19,1d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the mountains are snow-capped.,grid_image_19_A_100.png
-19,2d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the mountains are snow-capped.,grid_image_19_B_33.png
-19,3d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the mountains are snow-capped.,grid_image_19_C_0.png
-19,4d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the mountains are snow-capped.,grid_image_19_A_100.png
-19,5d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the mountains are snow-capped.,grid_image_19_B_33.png
-19,6d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the mountains are snow-capped.,grid_image_19_C_0.png
-20,6a,Is this a true or a false statement?,T1,True/False,True,False,Some hats are pieces of headwear.,NA
-20,1a,Is this a true or a false statement?,T2,True,True,False,Some pieces of headwear are hats.,NA
-20,2a,Is this a true or a false statement?,T3,False,True,False,Some hats are pieces of legislation.,NA
-20,3a,Is this a true or a false statement?,T4,True,True,False,All hats are pieces of headwear.,NA
-20,4a,Is this a true or a false statement?,T5,False,True,False,All pieces of headwear are hats.,NA
-20,5a,Is this a true or a false statement?,T6,False,True,False,All hats are pieces of legislation.,NA
-20,6b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the hats are baseball caps.,grid_image_20_A_100.png
-20,1b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the hats are baseball caps.,grid_image_20_B_33.png
-20,2b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the hats are baseball caps.,grid_image_20_C_0.png
-20,3b,Is this a true or a false description of the picture?,T4,True,True,False,All of the hats are baseball caps.,grid_image_20_A_100.png
-20,4b,Is this a true or a false description of the picture?,T5,False,True,False,All of the hats are baseball caps.,grid_image_20_B_33.png
-20,5b,Is this a true or a false description of the picture?,T6,False,True,False,All of the hats are baseball caps.,grid_image_20_C_0.png
-20,6c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some hats are pieces of headwear.,NA
-20,1c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some pieces of headwear are hats.,NA
-20,2c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some hats are pieces of legislation.,NA
-20,3c,Is this a good or a bad statement?,T4,Good,Good,Bad,All hats are pieces of headwear.,NA
-20,4c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All pieces of headwear are hats.,NA
-20,5c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All hats are pieces of legislation.,NA
-20,6d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the hats are baseball caps.,grid_image_20_A_100.png
-20,1d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the hats are baseball caps.,grid_image_20_B_33.png
-20,2d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the hats are baseball caps.,grid_image_20_C_0.png
-20,3d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the hats are baseball caps.,grid_image_20_A_100.png
-20,4d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the hats are baseball caps.,grid_image_20_B_33.png
-20,5d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the hats are baseball caps.,grid_image_20_C_0.png
-21,5a,Is this a true or a false statement?,T1,True/False,True,False,Some crocodiles are reptiles.,NA
-21,6a,Is this a true or a false statement?,T2,True,True,False,Some reptiles are crocodiles.,NA
-21,1a,Is this a true or a false statement?,T3,False,True,False,Some crocodiles are mushrooms.,NA
-21,2a,Is this a true or a false statement?,T4,True,True,False,All crocodiles are reptiles.,NA
-21,3a,Is this a true or a false statement?,T5,False,True,False,All reptiles are crocodiles.,NA
-21,4a,Is this a true or a false statement?,T6,False,True,False,All crocodiles are mushrooms.,NA
-21,5b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the crocodiles are gray.,grid_image_21_A_100.png
-21,6b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the crocodiles are gray.,grid_image_21_B_33.png
-21,1b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the crocodiles are gray.,grid_image_21_C_0.png
-21,2b,Is this a true or a false description of the picture?,T4,True,True,False,All of the crocodiles are gray.,grid_image_21_A_100.png
-21,3b,Is this a true or a false description of the picture?,T5,False,True,False,All of the crocodiles are gray.,grid_image_21_B_33.png
-21,4b,Is this a true or a false description of the picture?,T6,False,True,False,All of the crocodiles are gray.,grid_image_21_C_0.png
-21,5c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some crocodiles are reptiles.,NA
-21,6c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some reptiles are crocodiles.,NA
-21,1c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some crocodiles are mushrooms.,NA
-21,2c,Is this a good or a bad statement?,T4,Good,Good,Bad,All crocodiles are reptiles.,NA
-21,3c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All reptiles are crocodiles.,NA
-21,4c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All crocodiles are mushrooms.,NA
-21,5d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the crocodiles are gray.,grid_image_21_A_100.png
-21,6d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the crocodiles are gray.,grid_image_21_B_33.png
-21,1d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the crocodiles are gray.,grid_image_21_C_0.png
-21,2d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the crocodiles are gray.,grid_image_21_A_100.png
-21,3d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the crocodiles are gray.,grid_image_21_B_33.png
-21,4d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the crocodiles are gray.,grid_image_21_C_0.png
-22,4a,Is this a true or a false statement?,T1,True/False,True,False,Some suitcases are pieces of luggage.,NA
-22,5a,Is this a true or a false statement?,T2,True,True,False,Some pieces of luggage are suitcases.,NA
-22,6a,Is this a true or a false statement?,T3,False,True,False,Some suitcases are pieces of music.,NA
-22,1a,Is this a true or a false statement?,T4,True,True,False,All suitcases are pieces of luggage.,NA
-22,2a,Is this a true or a false statement?,T5,False,True,False,All pieces of luggage are suitcases.,NA
-22,3a,Is this a true or a false statement?,T6,False,True,False,All suitcases are pieces of music.,NA
-22,4b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the suitcases are open.,grid_image_22_A_100.png
-22,5b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the suitcases are open.,grid_image_22_B_33.png
-22,6b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the suitcases are open.,grid_image_22_C_0.png
-22,1b,Is this a true or a false description of the picture?,T4,True,True,False,All of the suitcases are open.,grid_image_22_A_100.png
-22,2b,Is this a true or a false description of the picture?,T5,False,True,False,All of the suitcases are open.,grid_image_22_B_33.png
-22,3b,Is this a true or a false description of the picture?,T6,False,True,False,All of the suitcases are open.,grid_image_22_C_0.png
-22,4c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some suitcases are pieces of luggage.,NA
-22,5c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some pieces of luggage are suitcases.,NA
-22,6c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some suitcases are pieces of music.,NA
-22,1c,Is this a good or a bad statement?,T4,Good,Good,Bad,All suitcases are pieces of luggage.,NA
-22,2c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All pieces of luggage are suitcases.,NA
-22,3c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All suitcases are pieces of music.,NA
-22,4d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the suitcases are open.,grid_image_22_A_100.png
-22,5d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the suitcases are open.,grid_image_22_B_33.png
-22,6d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the suitcases are open.,grid_image_22_C_0.png
-22,1d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the suitcases are open.,grid_image_22_A_100.png
-22,2d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the suitcases are open.,grid_image_22_B_33.png
-22,3d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the suitcases are open.,grid_image_22_C_0.png
-23,3a,Is this a true or a false statement?,T1,True/False,True,False,Some cameras are devices.,NA
-23,4a,Is this a true or a false statement?,T2,True,True,False,Some devices are cameras.,NA
-23,5a,Is this a true or a false statement?,T3,False,True,False,Some cameras are tables.,NA
-23,6a,Is this a true or a false statement?,T4,True,True,False,All cameras are devices.,NA
-23,1a,Is this a true or a false statement?,T5,False,True,False,All devices are cameras.,NA
-23,2a,Is this a true or a false statement?,T6,False,True,False,All cameras are tables.,NA
-23,3b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the cameras are analog.,grid_image_23_A_100.png
-23,4b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the cameras are analog.,grid_image_23_B_33.png
-23,5b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the cameras are analog.,grid_image_23_C_0.png
-23,6b,Is this a true or a false description of the picture?,T4,True,True,False,All of the cameras are analog.,grid_image_23_A_100.png
-23,1b,Is this a true or a false description of the picture?,T5,False,True,False,All of the cameras are analog.,grid_image_23_B_33.png
-23,2b,Is this a true or a false description of the picture?,T6,False,True,False,All of the cameras are analog.,grid_image_23_C_0.png
-23,3c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some cameras are devices.,NA
-23,4c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some devices are cameras.,NA
-23,5c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some cameras are tables.,NA
-23,6c,Is this a good or a bad statement?,T4,Good,Good,Bad,All cameras are devices.,NA
-23,1c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All devices are cameras.,NA
-23,2c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All cameras are tables.,NA
-23,3d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the cameras are analog.,grid_image_23_A_100.png
-23,4d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the cameras are analog.,grid_image_23_B_33.png
-23,5d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the cameras are analog.,grid_image_23_C_0.png
-23,6d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the cameras are analog.,grid_image_23_A_100.png
-23,1d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the cameras are analog.,grid_image_23_B_33.png
-23,2d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the cameras are analog.,grid_image_23_C_0.png
-24,2a,Is this a true or a false statement?,T1,True/False,True,False,Some shoes are pieces of footwear.,NA
-24,3a,Is this a true or a false statement?,T2,True,True,False,Some pieces of footwear are shoes.,NA
-24,4a,Is this a true or a false statement?,T3,False,True,False,Some shoes are pieces of poetry.,NA
-24,5a,Is this a true or a false statement?,T4,True,True,False,All shoes are pieces of footwear.,NA
-24,6a,Is this a true or a false statement?,T5,False,True,False,All pieces of footwear are shoes.,NA
-24,1a,Is this a true or a false statement?,T6,False,True,False,All shoes are pieces of poetry.,NA
-24,2b,Is this a true or a false description of the picture?,T1,True/False,True,False,Some of the shoes are high-heels.,grid_image_24_A_100.png
-24,3b,Is this a true or a false description of the picture?,T2,True,True,False,Some of the shoes are high-heels.,grid_image_24_B_33.png
-24,4b,Is this a true or a false description of the picture?,T3,False,True,False,Some of the shoes are high-heels.,grid_image_24_C_0.png
-24,5b,Is this a true or a false description of the picture?,T4,True,True,False,All of the shoes are high-heels.,grid_image_24_A_100.png
-24,6b,Is this a true or a false description of the picture?,T5,False,True,False,All of the shoes are high-heels.,grid_image_24_B_33.png
-24,1b,Is this a true or a false description of the picture?,T6,False,True,False,All of the shoes are high-heels.,grid_image_24_C_0.png
-24,2c,Is this a good or a bad statement?,T1,Good/Bad,Good,Bad,Some shoes are pieces of footwear.,NA
-24,3c,Is this a good or a bad statement?,T2,Good,Good,Bad,Some pieces of footwear are shoes.,NA
-24,4c,Is this a good or a bad statement?,T3,Bad,Good,Bad,Some shoes are pieces of poetry.,NA
-24,5c,Is this a good or a bad statement?,T4,Good,Good,Bad,All shoes are pieces of footwear.,NA
-24,6c,Is this a good or a bad statement?,T5,Bad,Good,Bad,All pieces of footwear are shoes.,NA
-24,1c,Is this a good or a bad statement?,T6,Bad,Good,Bad,All shoes are pieces of poetry.,NA
-24,2d,Is this a good or a bad description of the picture?,T1,Good/Bad,Good,Bad,Some of the shoes are high-heels.,grid_image_24_A_100.png
-24,3d,Is this a good or a bad description of the picture?,T2,Good,Good,Bad,Some of the shoes are high-heels.,grid_image_24_B_33.png
-24,4d,Is this a good or a bad description of the picture?,T3,Bad,Good,Bad,Some of the shoes are high-heels.,grid_image_24_C_0.png
-24,5d,Is this a good or a bad description of the picture?,T4,Good,Good,Bad,All of the shoes are high-heels.,grid_image_24_A_100.png
-24,6d,Is this a good or a bad description of the picture?,T5,Bad,Good,Bad,All of the shoes are high-heels.,grid_image_24_B_33.png
-24,1d,Is this a good or a bad description of the picture?,T6,Bad,Good,Bad,All of the shoes are high-heels.,grid_image_24_C_0.png
+1,1a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines pommes sont des fruits.,NA
+1,2a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains fruits sont des pommes.,NA
+1,3a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines pommes sont des villes.,NA
+1,4a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les pommes sont des fruits.,NA
+1,5a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les fruits sont des pommes.,NA
+1,6a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les pommes sont des villes.,NA
+1,1b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des pommes sont rouges.,grid_image_01_A_100.png
+1,2b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des pommes sont rouges.,grid_image_01_B_33.png
+1,3b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des pommes sont rouges.,grid_image_01_C_0.png
+1,4b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les pommes sont rouges.,grid_image_01_A_100.png
+1,5b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les pommes sont rouges.,grid_image_01_B_33.png
+1,6b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les pommes sont rouges.,grid_image_01_C_0.png
+1,1c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines pommes sont des fruits.,NA
+1,2c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains fruits sont des pommes.,NA
+1,3c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines pommes sont des villes.,NA
+1,4c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les pommes sont des fruits.,NA
+1,5c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les fruits sont des pommes.,NA
+1,6c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les pommes sont des villes.,NA
+1,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des pommes sont rouges.,grid_image_01_A_100.png
+1,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des pommes sont rouges.,grid_image_01_B_33.png
+1,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des pommes sont rouges.,grid_image_01_C_0.png
+1,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les pommes sont rouges.,grid_image_01_A_100.png
+1,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les pommes sont rouges.,grid_image_01_B_33.png
+1,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les pommes sont rouges.,grid_image_01_C_0.png
+2,6a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains chevaux sont des mammifères.,NA
+2,1a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains mammifères sont des chevaux.,NA
+2,2a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains chevaux sont des plantes.,NA
+2,3a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les chevaux sont des mammifères.,NA
+2,4a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les mammifères sont des chevaux.,NA
+2,5a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les chevaux sont des plantes.,NA
+2,6b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des chevaux sont bruns.,grid_image_02_A_100.png
+2,1b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des chevaux sont bruns.,grid_image_02_B_33.png
+2,2b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des chevaux sont bruns.,grid_image_02_C_0.png
+2,3b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les chevaux sont bruns.,grid_image_02_A_100.png
+2,4b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les chevaux sont bruns.,grid_image_02_B_33.png
+2,5b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les chevaux sont bruns.,grid_image_02_C_0.png
+2,6c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains chevaux sont des mammifères.,NA
+2,1c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains mammifères sont des chevaux.,NA
+2,2c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains chevaux sont des plantes.,NA
+2,3c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les chevaux sont des mammifères.,NA
+2,4c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les mammifères sont des chevaux.,NA
+2,5c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les chevaux sont des plantes.,NA
+2,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des chevaux sont bruns.,grid_image_02_A_100.png
+2,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des chevaux sont bruns.,grid_image_02_B_33.png
+2,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des chevaux sont bruns.,grid_image_02_C_0.png
+2,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les chevaux sont bruns.,grid_image_02_A_100.png
+2,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les chevaux sont bruns.,grid_image_02_B_33.png
+2,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les chevaux sont bruns.,grid_image_02_C_0.png
+3,5a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains cercles sont des formes.,NA
+3,6a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certaines formes sont des cercles.,NA
+3,1a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains cercles sont des sons.,NA
+3,2a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les cercles sont des formes.,NA
+3,3a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Toutes les formes sont des cercles.,NA
+3,4a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les cercles sont des sons.,NA
+3,5b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des cercles sont bleus.,grid_image_03_A_100.png
+3,6b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des cercles sont bleus.,grid_image_03_B_33.png
+3,1b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des cercles sont bleus.,grid_image_03_C_0.png
+3,2b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les cercles sont bleus.,grid_image_03_A_100.png
+3,3b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les cercles sont bleus.,grid_image_03_B_33.png
+3,4b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les cercles sont bleus.,grid_image_03_C_0.png
+3,5c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains cercles sont des formes.,NA
+3,6c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certaines formes sont des cercles.,NA
+3,1c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains cercles sont des sons.,NA
+3,2c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les cercles sont des formes.,NA
+3,3c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les formes sont des cercles.,NA
+3,4c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les cercles sont des sons.,NA
+3,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des cercles sont bleus.,grid_image_03_A_100.png
+3,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des cercles sont bleus.,grid_image_03_B_33.png
+3,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des cercles sont bleus.,grid_image_03_C_0.png
+3,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les cercles sont bleus.,grid_image_03_A_100.png
+3,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les cercles sont bleus.,grid_image_03_B_33.png
+3,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les cercles sont bleus.,grid_image_03_C_0.png
+4,4a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines maisons sont des bâtiments.,NA
+4,5a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains bâtiments sont des maisons.,NA
+4,6a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines maisons sont des couleurs.,NA
+4,1a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les maisons sont des bâtiments.,NA
+4,2a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les bâtiments sont des maisons.,NA
+4,3a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les maisons sont des couleurs.,NA
+4,4b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des maisons sont des manoirs.,grid_image_04_A_100.png
+4,5b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des maisons sont des manoirs.,grid_image_04_B_33.png
+4,6b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des maisons sont des manoirs.,grid_image_04_C_0.png
+4,1b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les maisons sont des manoirs.,grid_image_04_A_100.png
+4,2b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les maisons sont des manoirs.,grid_image_04_B_33.png
+4,3b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les maisons sont des manoirs.,grid_image_04_C_0.png
+4,4c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines maisons sont des bâtiments.,NA
+4,5c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains bâtiments sont des maisons.,NA
+4,6c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines maisons sont des couleurs.,NA
+4,1c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les maisons sont des bâtiments.,NA
+4,2c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les bâtiments sont des maisons.,NA
+4,3c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les maisons sont des couleurs.,NA
+4,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des maisons sont des manoirs.,grid_image_04_A_100.png
+4,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des maisons sont des manoirs.,grid_image_04_B_33.png
+4,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des maisons sont des manoirs.,grid_image_04_C_0.png
+4,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les maisons sont des manoirs.,grid_image_04_A_100.png
+4,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les maisons sont des manoirs.,grid_image_04_B_33.png
+4,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les maisons sont des manoirs.,grid_image_04_C_0.png
+5,3a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines guitares sont des instruments de musique.,NA
+5,4a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains instruments de musique sont des guitares.,NA
+5,5a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines guitares sont des équipes sportives.,NA
+5,6a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les guitares sont des instruments de musique.,NA
+5,1a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les instruments de musique sont des guitares.,NA
+5,2a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les guitares sont des équipes sportives.,NA
+5,3b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des guitares sont électriques.,grid_image_05_A_100.png
+5,4b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des guitares sont électriques.,grid_image_05_B_33.png
+5,5b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des guitares sont électriques.,grid_image_05_C_0.png
+5,6b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les guitares sont électriques.,grid_image_05_A_100.png
+5,1b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les guitares sont électriques.,grid_image_05_B_33.png
+5,2b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les guitares sont électriques.,grid_image_05_C_0.png
+5,3c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines guitares sont des instruments de musique.,NA
+5,4c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains instruments de musique sont des guitares.,NA
+5,5c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines guitares sont des équipes sportives.,NA
+5,6c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les guitares sont des instruments de musique.,NA
+5,1c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les instruments de musique sont des guitares.,NA
+5,2c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les guitares sont des équipes sportives.,NA
+5,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des guitares sont électriques.,grid_image_05_A_100.png
+5,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des guitares sont électriques.,grid_image_05_B_33.png
+5,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des guitares sont électriques.,grid_image_05_C_0.png
+5,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les guitares sont électriques.,grid_image_05_A_100.png
+5,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les guitares sont électriques.,grid_image_05_B_33.png
+5,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les guitares sont électriques.,grid_image_05_C_0.png
+6,2a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains canards sont des oiseaux.,NA
+6,3a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains oiseaux sont des canards.,NA
+6,4a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains canards sont des nombres.,NA
+6,5a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les canards sont des oiseaux.,NA
+6,6a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les oiseaux sont des canards.,NA
+6,1a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les canards sont des nombres.,NA
+6,2b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des canards sont blancs.,grid_image_06_A_100.png
+6,3b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des canards sont blancs.,grid_image_06_B_33.png
+6,4b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des canards sont blancs.,grid_image_06_C_0.png
+6,5b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les canards sont blancs.,grid_image_06_A_100.png
+6,6b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les canards sont blancs.,grid_image_06_B_33.png
+6,1b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les canards sont blancs.,grid_image_06_C_0.png
+6,2c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains canards sont des oiseaux.,NA
+6,3c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains oiseaux sont des canards.,NA
+6,4c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains canards sont des nombres.,NA
+6,5c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les canards sont des oiseaux.,NA
+6,6c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les oiseaux sont des canards.,NA
+6,1c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les canards sont des nombres.,NA
+6,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des canards sont blancs.,grid_image_06_A_100.png
+6,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des canards sont blancs.,grid_image_06_B_33.png
+6,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des canards sont blancs.,grid_image_06_C_0.png
+6,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les canards sont blancs.,grid_image_06_A_100.png
+6,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les canards sont blancs.,grid_image_06_B_33.png
+6,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les canards sont blancs.,grid_image_06_C_0.png
+7,1a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines tulipes sont des fleurs.,NA
+7,2a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certaines fleurs sont des tulipes.,NA
+7,3a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines tulipes sont des étoiles.,NA
+7,4a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les tulipes sont des fleurs.,NA
+7,5a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Toutes les fleurs sont des tulipes.,NA
+7,6a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les tulipes sont des étoiles.,NA
+7,1b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des tulipes sont jaunes.,grid_image_07_A_100.png
+7,2b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des tulipes sont jaunes.,grid_image_07_B_33.png
+7,3b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des tulipes sont jaunes.,grid_image_07_C_0.png
+7,4b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les tulipes sont jaunes.,grid_image_07_A_100.png
+7,5b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les tulipes sont jaunes.,grid_image_07_B_33.png
+7,6b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les tulipes sont jaunes.,grid_image_07_C_0.png
+7,1c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines tulipes sont des fleurs.,NA
+7,2c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certaines fleurs sont des tulipes.,NA
+7,3c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines tulipes sont des étoiles.,NA
+7,4c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les tulipes sont des fleurs.,NA
+7,5c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les fleurs sont des tulipes.,NA
+7,6c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les tulipes sont des étoiles.,NA
+7,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des tulipes sont jaunes.,grid_image_07_A_100.png
+7,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des tulipes sont jaunes.,grid_image_07_B_33.png
+7,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des tulipes sont jaunes.,grid_image_07_C_0.png
+7,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les tulipes sont jaunes.,grid_image_07_A_100.png
+7,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les tulipes sont jaunes.,grid_image_07_B_33.png
+7,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les tulipes sont jaunes.,grid_image_07_C_0.png
+8,6a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines abeilles sont des insectes.,NA
+8,1a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains insectes sont des abeilles.,NA
+8,2a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines abeilles sont des serpents.,NA
+8,3a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les abeilles sont des insectes.,NA
+8,4a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les insectes sont des abeilles.,NA
+8,5a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les abeilles sont des serpents.,NA
+8,6b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des abeilles sont rayées.,grid_image_08_A_100.png
+8,1b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des abeilles sont rayées.,grid_image_08_B_33.png
+8,2b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des abeilles sont rayées.,grid_image_08_C_0.png
+8,3b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les abeilles sont rayées.,grid_image_08_A_100.png
+8,4b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les abeilles sont rayées.,grid_image_08_B_33.png
+8,5b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les abeilles sont rayées.,grid_image_08_C_0.png
+8,6c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines abeilles sont des insectes.,NA
+8,1c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains insectes sont des abeilles.,NA
+8,2c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines abeilles sont des serpents.,NA
+8,3c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les abeilles sont des insectes.,NA
+8,4c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les insectes sont des abeilles.,NA
+8,5c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les abeilles sont des serpents.,NA
+8,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des abeilles sont rayées.,grid_image_08_A_100.png
+8,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des abeilles sont rayées.,grid_image_08_B_33.png
+8,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des abeilles sont rayées.,grid_image_08_C_0.png
+8,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les abeilles sont rayées.,grid_image_08_A_100.png
+8,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les abeilles sont rayées.,grid_image_08_B_33.png
+8,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les abeilles sont rayées.,grid_image_08_C_0.png
+9,5a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains triangles sont des polygones.,NA
+9,6a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains polygones sont des triangles.,NA
+9,1a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains triangles sont des langues.,NA
+9,2a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les triangles sont des polygones.,NA
+9,3a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les polygones sont des triangles.,NA
+9,4a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les triangles sont des langues.,NA
+9,5b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des triangles sont équilatéraux.,grid_image_09_A_100.png
+9,6b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des triangles sont équilatéraux.,grid_image_09_B_33.png
+9,1b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des triangles sont équilatéraux.,grid_image_09_C_0.png
+9,2b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les triangles sont équilatéraux.,grid_image_09_A_100.png
+9,3b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les triangles sont équilatéraux.,grid_image_09_B_33.png
+9,4b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les triangles sont équilatéraux.,grid_image_09_C_0.png
+9,5c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains triangles sont des polygones.,NA
+9,6c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains polygones sont des triangles.,NA
+9,1c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains triangles sont des langues.,NA
+9,2c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les triangles sont des polygones.,NA
+9,3c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les polygones sont des triangles.,NA
+9,4c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les triangles sont des langues.,NA
+9,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des triangles sont équilatéraux.,grid_image_09_A_100.png
+9,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des triangles sont équilatéraux.,grid_image_09_B_33.png
+9,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des triangles sont équilatéraux.,grid_image_09_C_0.png
+9,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les triangles sont équilatéraux.,grid_image_09_A_100.png
+9,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les triangles sont équilatéraux.,grid_image_09_B_33.png
+9,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les triangles sont équilatéraux.,grid_image_09_C_0.png
+10,4a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains poivrons sont des légumes.,NA
+10,5a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains légumes sont des poivrons.,NA
+10,6a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains poivrons sont des rivières.,NA
+10,1a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les poivrons sont des légumes.,NA
+10,2a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les légumes sont des poivrons.,NA
+10,3a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les poivrons sont des rivières.,NA
+10,4b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des poivrons sont verts.,grid_image_10_A_100.png
+10,5b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des poivrons sont verts.,grid_image_10_B_33.png
+10,6b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des poivrons sont verts.,grid_image_10_C_0.png
+10,1b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les poivrons sont verts.,grid_image_10_A_100.png
+10,2b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les poivrons sont verts.,grid_image_10_B_33.png
+10,3b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les poivrons sont verts.,grid_image_10_C_0.png
+10,4c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains poivrons sont des légumes.,NA
+10,5c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains légumes sont des poivrons.,NA
+10,6c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains poivrons sont des rivières.,NA
+10,1c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les poivrons sont des légumes.,NA
+10,2c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les légumes sont des poivrons.,NA
+10,3c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les poivrons sont des rivières.,NA
+10,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des poivrons sont verts.,grid_image_10_A_100.png
+10,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des poivrons sont verts.,grid_image_10_B_33.png
+10,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des poivrons sont verts.,grid_image_10_C_0.png
+10,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les poivrons sont verts.,grid_image_10_A_100.png
+10,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les poivrons sont verts.,grid_image_10_B_33.png
+10,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les poivrons sont verts.,grid_image_10_C_0.png
+11,3a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains ordinateurs portables sont des ordinateurs.,NA
+11,4a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains ordinateurs sont des ordinateurs portables.,NA
+11,5a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains ordinateurs portables sont des bateaux.,NA
+11,6a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les ordinateurs portables sont des ordinateurs.,NA
+11,1a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les ordinateurs sont des ordinateurs portables.,NA
+11,2a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les ordinateurs portables sont des bateaux.,NA
+11,3b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des ordinateurs portables sont noirs.,grid_image_11_A_100.png
+11,4b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des ordinateurs portables sont noirs.,grid_image_11_B_33.png
+11,5b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des ordinateurs portables sont noirs.,grid_image_11_C_0.png
+11,6b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les ordinateurs portables sont noirs.,grid_image_11_A_100.png
+11,1b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les ordinateurs portables sont noirs.,grid_image_11_B_33.png
+11,2b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les ordinateurs portables sont noirs.,grid_image_11_C_0.png
+11,3c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains ordinateurs portables sont des ordinateurs.,NA
+11,4c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains ordinateurs sont des ordinateurs portables.,NA
+11,5c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains ordinateurs portables sont des bateaux.,NA
+11,6c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les ordinateurs portables sont des ordinateurs.,NA
+11,1c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les ordinateurs sont des ordinateurs portables.,NA
+11,2c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les ordinateurs portables sont des bateaux.,NA
+11,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des ordinateurs portables sont noirs.,grid_image_11_A_100.png
+11,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des ordinateurs portables sont noirs.,grid_image_11_B_33.png
+11,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des ordinateurs portables sont noirs.,grid_image_11_C_0.png
+11,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les ordinateurs portables sont noirs.,grid_image_11_A_100.png
+11,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les ordinateurs portables sont noirs.,grid_image_11_B_33.png
+11,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les ordinateurs portables sont noirs.,grid_image_11_C_0.png
+12,2a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines voitures sont des véhicules.,NA
+12,3a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains véhicules sont des voitures.,NA
+12,4a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines voitures sont des cordes.,NA
+12,5a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les voitures sont des véhicules.,NA
+12,6a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les véhicules sont des voitures.,NA
+12,1a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les voitures sont des cordes.,NA
+12,2b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des voitures sont des monospaces.,grid_image_12_A_100.png
+12,3b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des voitures sont des monospaces.,grid_image_12_B_33.png
+12,4b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des voitures sont des monospaces.,grid_image_12_C_0.png
+12,5b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les voitures sont des monospaces.,grid_image_12_A_100.png
+12,6b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les voitures sont des monospaces.,grid_image_12_B_33.png
+12,1b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les voitures sont des monospaces.,grid_image_12_C_0.png
+12,2c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines voitures sont des véhicules.,NA
+12,3c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains véhicules sont des voitures.,NA
+12,4c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines voitures sont des cordes.,NA
+12,5c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les voitures sont des véhicules.,NA
+12,6c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les véhicules sont des voitures.,NA
+12,1c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les voitures sont des cordes.,NA
+12,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des voitures sont des monospaces.,grid_image_12_A_100.png
+12,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des voitures sont des monospaces.,grid_image_12_B_33.png
+12,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des voitures sont des monospaces.,grid_image_12_C_0.png
+12,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les voitures sont des monospaces.,grid_image_12_A_100.png
+12,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les voitures sont des monospaces.,grid_image_12_B_33.png
+12,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les voitures sont des monospaces.,grid_image_12_C_0.png
+13,1a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains arbres sont des plantes.,NA
+13,2a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certaines plantes sont des arbres.,NA
+13,3a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains arbres sont des animaux.,NA
+13,4a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les arbres sont des plantes.,NA
+13,5a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Toutes les plantes sont des arbres.,NA
+13,6a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les arbres sont des animaux.,NA
+13,1b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des arbres sont des palmiers.,grid_image_13_A_100.png
+13,2b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des arbres sont des palmiers.,grid_image_13_B_33.png
+13,3b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des arbres sont des palmiers.,grid_image_13_C_0.png
+13,4b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les arbres sont des palmiers.,grid_image_13_A_100.png
+13,5b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les arbres sont des palmiers.,grid_image_13_B_33.png
+13,6b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les arbres sont des palmiers.,grid_image_13_C_0.png
+13,1c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains arbres sont des plantes.,NA
+13,2c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certaines plantes sont des arbres.,NA
+13,3c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains arbres sont des animaux.,NA
+13,4c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les arbres sont des plantes.,NA
+13,5c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les plantes sont des arbres.,NA
+13,6c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les arbres sont des animaux.,NA
+13,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des arbres sont des palmiers.,grid_image_13_A_100.png
+13,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des arbres sont des palmiers.,grid_image_13_B_33.png
+13,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des arbres sont des palmiers.,grid_image_13_C_0.png
+13,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les arbres sont des palmiers.,grid_image_13_A_100.png
+13,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les arbres sont des palmiers.,grid_image_13_B_33.png
+13,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les arbres sont des palmiers.,grid_image_13_C_0.png
+14,6a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines chemises sont des vêtements.,NA
+14,1a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains vêtements sont des chemises.,NA
+14,2a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines chemises sont des machines.,NA
+14,3a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les chemises sont des vêtements.,NA
+14,4a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les vêtements sont des chemises.,NA
+14,5a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les chemises sont des machines.,NA
+14,6b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des chemises sont sales.,grid_image_14_A_100.png
+14,1b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des chemises sont sales.,grid_image_14_B_33.png
+14,2b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des chemises sont sales.,grid_image_14_C_0.png
+14,3b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les chemises sont sales.,grid_image_14_A_100.png
+14,4b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les chemises sont sales.,grid_image_14_B_33.png
+14,5b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les chemises sont sales.,grid_image_14_C_0.png
+14,6c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines chemises sont des vêtements.,NA
+14,1c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains vêtements sont des chemises.,NA
+14,2c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines chemises sont des machines.,NA
+14,3c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les chemises sont des vêtements.,NA
+14,4c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les vêtements sont des chemises.,NA
+14,5c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les chemises sont des machines.,NA
+14,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des chemises sont sales.,grid_image_14_A_100.png
+14,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des chemises sont sales.,grid_image_14_B_33.png
+14,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des chemises sont sales.,grid_image_14_C_0.png
+14,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les chemises sont sales.,grid_image_14_A_100.png
+14,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les chemises sont sales.,grid_image_14_B_33.png
+14,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les chemises sont sales.,grid_image_14_C_0.png
+15,5a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains marteaux sont des outils.,NA
+15,6a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains outils sont des marteaux.,NA
+15,1a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains marteaux sont des portes.,NA
+15,2a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les marteaux sont des outils.,NA
+15,3a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les outils sont des marteaux.,NA
+15,4a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les marteaux sont des portes.,NA
+15,5b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des marteaux sont cassés.,grid_image_15_A_100.png
+15,6b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des marteaux sont cassés.,grid_image_15_B_33.png
+15,1b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des marteaux sont cassés.,grid_image_15_C_0.png
+15,2b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les marteaux sont cassés.,grid_image_15_A_100.png
+15,3b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les marteaux sont cassés.,grid_image_15_B_33.png
+15,4b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les marteaux sont cassés.,grid_image_15_C_0.png
+15,5c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains marteaux sont des outils.,NA
+15,6c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains outils sont des marteaux.,NA
+15,1c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains marteaux sont des portes.,NA
+15,2c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les marteaux sont des outils.,NA
+15,3c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les outils sont des marteaux.,NA
+15,4c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les marteaux sont des portes.,NA
+15,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des marteaux sont cassés.,grid_image_15_A_100.png
+15,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des marteaux sont cassés.,grid_image_15_B_33.png
+15,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des marteaux sont cassés.,grid_image_15_C_0.png
+15,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les marteaux sont cassés.,grid_image_15_A_100.png
+15,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les marteaux sont cassés.,grid_image_15_B_33.png
+15,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les marteaux sont cassés.,grid_image_15_C_0.png
+16,4a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines colliers sont des bijoux.,NA
+16,5a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains bijoux sont des colliers.,NA
+16,6a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains colliers sont des morceaux de gâteau.,NA
+16,1a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les colliers sont des bijoux.,NA
+16,2a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les bijoux sont des colliers.,NA
+16,3a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les colliers sont des morceaux de gâteau.,NA
+16,4b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des colliers sont dorés.,grid_image_16_A_100.png
+16,5b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des colliers sont dorés.,grid_image_16_B_33.png
+16,6b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des colliers sont dorés.,grid_image_16_C_0.png
+16,1b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les colliers sont dorés.,grid_image_16_A_100.png
+16,2b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les colliers sont dorés.,grid_image_16_B_33.png
+16,3b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les colliers sont dorés.,grid_image_16_C_0.png
+16,4c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines colliers sont des bijoux.,NA
+16,5c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains bijoux sont des colliers.,NA
+16,6c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains colliers sont des morceaux de gâteau.,NA
+16,1c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les colliers sont des bijoux.,NA
+16,2c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les bijoux sont des colliers.,NA
+16,3c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les colliers sont des morceaux de gâteau.,NA
+16,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des colliers sont dorés.,grid_image_16_A_100.png
+16,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des colliers sont dorés.,grid_image_16_B_33.png
+16,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des colliers sont dorés.,grid_image_16_C_0.png
+16,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les colliers sont dorés.,grid_image_16_A_100.png
+16,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les colliers sont dorés.,grid_image_16_B_33.png
+16,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les colliers sont dorés.,grid_image_16_C_0.png
+17,3a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines canapés sont des meubles.,NA
+17,4a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains meubles sont des canapés.,NA
+17,5a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines canapés sont des morceaux de pain.,NA
+17,6a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les canapés sont des meubles.,NA
+17,1a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les meubles sont des canapés.,NA
+17,2a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les canapés sont des morceaux de pain.,NA
+17,3b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des canapés sont roses.,grid_image_17_A_100.png
+17,4b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des canapés sont roses.,grid_image_17_B_33.png
+17,5b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des canapés sont roses.,grid_image_17_C_0.png
+17,6b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les canapés sont roses.,grid_image_17_A_100.png
+17,1b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les canapés sont roses.,grid_image_17_B_33.png
+17,2b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les canapés sont roses.,grid_image_17_C_0.png
+17,3c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines canapés sont des meubles.,NA
+17,4c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains meubles sont des canapés.,NA
+17,5c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines canapés sont des morceaux de pain.,NA
+17,6c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les canapés sont des meubles.,NA
+17,1c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les meubles sont des canapés.,NA
+17,2c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les canapés sont des morceaux de pain.,NA
+17,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des canapés sont roses.,grid_image_17_A_100.png
+17,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des canapés sont roses.,grid_image_17_B_33.png
+17,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des canapés sont roses.,grid_image_17_C_0.png
+17,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les canapés sont roses.,grid_image_17_A_100.png
+17,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les canapés sont roses.,grid_image_17_B_33.png
+17,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les canapés sont roses.,grid_image_17_C_0.png
+18,2a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains sandwichs sont des aliments.,NA
+18,3a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains aliments sont des sandwichs.,NA
+18,4a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains sandwichs sont des articles de salle de bain.,NA
+18,5a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les sandwichs sont des aliments.,NA
+18,6a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les aliments sont des sandwichs.,NA
+18,1a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les sandwichs sont des articles de salle de bain.,NA
+18,2b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des sandwichs sont grillés.,grid_image_18_A_100.png
+18,3b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des sandwichs sont grillés.,grid_image_18_B_33.png
+18,4b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des sandwichs sont grillés.,grid_image_18_C_0.png
+18,5b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les sandwichs sont grillés.,grid_image_18_A_100.png
+18,6b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les sandwichs sont grillés.,grid_image_18_B_33.png
+18,1b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les sandwichs sont grillés.,grid_image_18_C_0.png
+18,2c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains sandwichs sont des aliments.,NA
+18,3c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains aliments sont des sandwichs.,NA
+18,4c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains sandwichs sont des articles de salle de bain.,NA
+18,5c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les sandwichs sont des aliments.,NA
+18,6c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les aliments sont des sandwichs.,NA
+18,1c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les sandwichs sont des articles de salle de bain.,NA
+18,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des sandwichs sont grillés.,grid_image_18_A_100.png
+18,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des sandwichs sont grillés.,grid_image_18_B_33.png
+18,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des sandwichs sont grillés.,grid_image_18_C_0.png
+18,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les sandwichs sont grillés.,grid_image_18_A_100.png
+18,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les sandwichs sont grillés.,grid_image_18_B_33.png
+18,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les sandwichs sont grillés.,grid_image_18_C_0.png
+19,1a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines montagnes sont des formes de relief.,NA
+19,2a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certaines formes de relief sont des montagnes.,NA
+19,3a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines montagnes sont des monnaies.,NA
+19,4a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les montagnes sont des formes de relief.,NA
+19,5a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Toutes les formes de relief sont des montagnes.,NA
+19,6a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les montagnes sont des monnaies.,NA
+19,1b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des montagnes sont enneigées.,grid_image_19_A_100.png
+19,2b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des montagnes sont enneigées.,grid_image_19_B_33.png
+19,3b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des montagnes sont enneigées.,grid_image_19_C_0.png
+19,4b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les montagnes sont enneigées.,grid_image_19_A_100.png
+19,5b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les montagnes sont enneigées.,grid_image_19_B_33.png
+19,6b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les montagnes sont enneigées.,grid_image_19_C_0.png
+19,1c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines montagnes sont des formes de relief.,NA
+19,2c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certaines formes de relief sont des montagnes.,NA
+19,3c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines montagnes sont des monnaies.,NA
+19,4c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les montagnes sont des formes de relief.,NA
+19,5c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les formes de relief sont des montagnes.,NA
+19,6c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les montagnes sont des monnaies.,NA
+19,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des montagnes sont enneigées.,grid_image_19_A_100.png
+19,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des montagnes sont enneigées.,grid_image_19_B_33.png
+19,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des montagnes sont enneigées.,grid_image_19_C_0.png
+19,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les montagnes sont enneigées.,grid_image_19_A_100.png
+19,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les montagnes sont enneigées.,grid_image_19_B_33.png
+19,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les montagnes sont enneigées.,grid_image_19_C_0.png
+20,6a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains chapeaux sont des couvre-chefs.,NA
+20,1a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains couvre-chefs sont des chapeaux.,NA
+20,2a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains chapeaux sont des textes législatifs.,NA
+20,3a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les chapeaux sont des couvre-chefs.,NA
+20,4a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les couvre-chefs sont des chapeaux.,NA
+20,5a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les chapeaux sont des textes législatifs.,NA
+20,6b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_A_100.png
+20,1b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_B_33.png
+20,2b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_C_0.png
+20,3b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_A_100.png
+20,4b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_B_33.png
+20,5b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_C_0.png
+20,6c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains chapeaux sont des couvre-chefs.,NA
+20,1c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains couvre-chefs sont des chapeaux.,NA
+20,2c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains chapeaux sont des textes législatifs.,NA
+20,3c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les chapeaux sont des couvre-chefs.,NA
+20,4c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les couvre-chefs sont des chapeaux.,NA
+20,5c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les chapeaux sont des textes législatifs.,NA
+20,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_A_100.png
+20,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_B_33.png
+20,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des chapeaux sont des casquettes de baseball.,grid_image_20_C_0.png
+20,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_A_100.png
+20,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_B_33.png
+20,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les chapeaux sont des casquettes de baseball.,grid_image_20_C_0.png
+21,5a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certains crocodiles sont des reptiles.,NA
+21,6a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains reptiles sont des crocodiles.,NA
+21,1a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certains crocodiles sont des champignons.,NA
+21,2a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les crocodiles sont des reptiles.,NA
+21,3a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les reptiles sont des crocodiles.,NA
+21,4a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les crocodiles sont des champignons.,NA
+21,5b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des crocodiles sont gris.,grid_image_21_A_100.png
+21,6b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des crocodiles sont gris.,grid_image_21_B_33.png
+21,1b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des crocodiles sont gris.,grid_image_21_C_0.png
+21,2b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les crocodiles sont gris.,grid_image_21_A_100.png
+21,3b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les crocodiles sont gris.,grid_image_21_B_33.png
+21,4b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les crocodiles sont gris.,grid_image_21_C_0.png
+21,5c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains crocodiles sont des reptiles.,NA
+21,6c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains reptiles sont des crocodiles.,NA
+21,1c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certains crocodiles sont des champignons.,NA
+21,2c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les crocodiles sont des reptiles.,NA
+21,3c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les reptiles sont des crocodiles.,NA
+21,4c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les crocodiles sont des champignons.,NA
+21,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des crocodiles sont gris.,grid_image_21_A_100.png
+21,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des crocodiles sont gris.,grid_image_21_B_33.png
+21,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des crocodiles sont gris.,grid_image_21_C_0.png
+21,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les crocodiles sont gris.,grid_image_21_A_100.png
+21,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les crocodiles sont gris.,grid_image_21_B_33.png
+21,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les crocodiles sont gris.,grid_image_21_C_0.png
+22,4a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines valises sont des bagages.,NA
+22,5a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains bagages sont des valises.,NA
+22,6a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines valises sont des morceaux de musique.,NA
+22,1a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les valises sont des bagages.,NA
+22,2a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les bagages sont des valises.,NA
+22,3a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les valises sont des morceaux de musique.,NA
+22,4b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des valises sont ouvertes.,grid_image_22_A_100.png
+22,5b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des valises sont ouvertes.,grid_image_22_B_33.png
+22,6b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des valises sont ouvertes.,grid_image_22_C_0.png
+22,1b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les valises sont ouvertes.,grid_image_22_A_100.png
+22,2b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les valises sont ouvertes.,grid_image_22_B_33.png
+22,3b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les valises sont ouvertes.,grid_image_22_C_0.png
+22,4c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines valises sont des bagages.,NA
+22,5c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains bagages sont des valises.,NA
+22,6c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines valises sont des morceaux de musique.,NA
+22,1c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les valises sont des bagages.,NA
+22,2c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les bagages sont des valises.,NA
+22,3c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les valises sont des morceaux de musique.,NA
+22,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des valises sont ouvertes.,grid_image_22_A_100.png
+22,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des valises sont ouvertes.,grid_image_22_B_33.png
+22,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des valises sont ouvertes.,grid_image_22_C_0.png
+22,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les valises sont ouvertes.,grid_image_22_A_100.png
+22,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les valises sont ouvertes.,grid_image_22_B_33.png
+22,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les valises sont ouvertes.,grid_image_22_C_0.png
+23,3a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines appareils photo sont des dispositifs.,NA
+23,4a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains dispositifs sont des appareils photo.,NA
+23,5a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines appareils photo sont des tables.,NA
+23,6a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Tous les appareils photo sont des dispositifs.,NA
+23,1a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les dispositifs sont des appareils photo.,NA
+23,2a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Tous les appareils photo sont des tables.,NA
+23,3b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certains des appareils photo sont argentiques.,grid_image_23_A_100.png
+23,4b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certains des appareils photo sont argentiques.,grid_image_23_B_33.png
+23,5b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certains des appareils photo sont argentiques.,grid_image_23_C_0.png
+23,6b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Tous les appareils photo sont argentiques.,grid_image_23_A_100.png
+23,1b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Tous les appareils photo sont argentiques.,grid_image_23_B_33.png
+23,2b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Tous les appareils photo sont argentiques.,grid_image_23_C_0.png
+23,3c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines appareils photo sont des dispositifs.,NA
+23,4c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains dispositifs sont des appareils photo.,NA
+23,5c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines appareils photo sont des tables.,NA
+23,6c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Tous les appareils photo sont des dispositifs.,NA
+23,1c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les dispositifs sont des appareils photo.,NA
+23,2c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Tous les appareils photo sont des tables.,NA
+23,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certains des appareils photo sont argentiques.,grid_image_23_A_100.png
+23,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certains des appareils photo sont argentiques.,grid_image_23_B_33.png
+23,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certains des appareils photo sont argentiques.,grid_image_23_C_0.png
+23,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Tous les appareils photo sont argentiques.,grid_image_23_A_100.png
+23,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Tous les appareils photo sont argentiques.,grid_image_23_B_33.png
+23,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Tous les appareils photo sont argentiques.,grid_image_23_C_0.png
+24,2a,Est-ce une affirmation vraie ou fausse ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines chaussures sont des articles chaussants.,NA
+24,3a,Est-ce une affirmation vraie ou fausse ?,T2,Vraie,Vraie,Fausse,Certains articles chaussants sont des chaussures.,NA
+24,4a,Est-ce une affirmation vraie ou fausse ?,T3,Fausse,Vraie,Fausse,Certaines chaussures sont des morceaux de poésie.,NA
+24,5a,Est-ce une affirmation vraie ou fausse ?,T4,Vraie,Vraie,Fausse,Toutes les chaussures sont des articles chaussants.,NA
+24,6a,Est-ce une affirmation vraie ou fausse ?,T5,Fausse,Vraie,Fausse,Tous les articles chaussants sont des chaussures.,NA
+24,1a,Est-ce une affirmation vraie ou fausse ?,T6,Fausse,Vraie,Fausse,Toutes les chaussures sont des morceaux de poésie.,NA
+24,2b,Est-ce une description vraie ou fausse de l’image ?,T1,Vraie/Fausse,Vraie,Fausse,Certaines des chaussures sont des talons hauts.,grid_image_24_A_100.png
+24,3b,Est-ce une description vraie ou fausse de l’image ?,T2,Vraie,Vraie,Fausse,Certaines des chaussures sont des talons hauts.,grid_image_24_B_33.png
+24,4b,Est-ce une description vraie ou fausse de l’image ?,T3,Fausse,Vraie,Fausse,Certaines des chaussures sont des talons hauts.,grid_image_24_C_0.png
+24,5b,Est-ce une description vraie ou fausse de l’image ?,T4,Vraie,Vraie,Fausse,Toutes les chaussures sont des talons hauts.,grid_image_24_A_100.png
+24,6b,Est-ce une description vraie ou fausse de l’image ?,T5,Fausse,Vraie,Fausse,Toutes les chaussures sont des talons hauts.,grid_image_24_B_33.png
+24,1b,Est-ce une description vraie ou fausse de l’image ?,T6,Fausse,Vraie,Fausse,Toutes les chaussures sont des talons hauts.,grid_image_24_C_0.png
+24,2c,Est-ce une affirmation bonne ou mauvaise ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines chaussures sont des articles chaussants.,NA
+24,3c,Est-ce une affirmation bonne ou mauvaise ?,T2,Bonne,Bonne,Mauvaise,Certains articles chaussants sont des chaussures.,NA
+24,4c,Est-ce une affirmation bonne ou mauvaise ?,T3,Mauvaise,Bonne,Mauvaise,Certaines chaussures sont des morceaux de poésie.,NA
+24,5c,Est-ce une affirmation bonne ou mauvaise ?,T4,Bonne,Bonne,Mauvaise,Toutes les chaussures sont des articles chaussants.,NA
+24,6c,Est-ce une affirmation bonne ou mauvaise ?,T5,Mauvaise,Bonne,Mauvaise,Tous les articles chaussants sont des chaussures.,NA
+24,1c,Est-ce une affirmation bonne ou mauvaise ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les chaussures sont des morceaux de poésie.,NA
+24,2d,Est-ce une bonne ou une mauvaise description de l’image ?,T1,Bonne/Mauvaise,Bonne,Mauvaise,Certaines des chaussures sont des talons hauts.,grid_image_24_A_100.png
+24,3d,Est-ce une bonne ou une mauvaise description de l’image ?,T2,Bonne,Bonne,Mauvaise,Certaines des chaussures sont des talons hauts.,grid_image_24_B_33.png
+24,4d,Est-ce une bonne ou une mauvaise description de l’image ?,T3,Mauvaise,Bonne,Mauvaise,Certaines des chaussures sont des talons hauts.,grid_image_24_C_0.png
+24,5d,Est-ce une bonne ou une mauvaise description de l’image ?,T4,Bonne,Bonne,Mauvaise,Toutes les chaussures sont des talons hauts.,grid_image_24_A_100.png
+24,6d,Est-ce une bonne ou une mauvaise description de l’image ?,T5,Mauvaise,Bonne,Mauvaise,Toutes les chaussures sont des talons hauts.,grid_image_24_B_33.png
+24,1d,Est-ce une bonne ou une mauvaise description de l’image ?,T6,Mauvaise,Bonne,Mauvaise,Toutes les chaussures sont des talons hauts.,grid_image_24_C_0.png
